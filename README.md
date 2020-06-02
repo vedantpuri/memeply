@@ -2,7 +2,9 @@
 A wit.ai app that can suggest quotes as your replies.
 
 <hr>
-*** The project is under development. Check back later ... ***
+
+### The project is under development. Check back later ... 
+
 <hr>
 
 ## License
