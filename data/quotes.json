@@ -699,477 +699,964 @@
             "actor": "Leonardo DiCaprio",
             "movie": "Titanic",
             "year": "1997"
-        }
-    ]
-}{
-    "quotes": [
-        {
-            "quote": "The truth is out there.",
-            "character": "",
-            "actor": "",
-            "movie": "The X-Files",
-            "year": ""
         },
         {
-            "quote": "Rut roh!",
+            "quote": "How hurt you want him?",
             "character": "",
             "actor": "",
-            "movie": "Scooby Doo",
-            "year": ""
-        },
-        {
-            "quote": "D'oh!",
-            "character": "",
-            "actor": "",
-            "movie": "The Simpsons",
-            "year": ""
-        },
-        {
-            "quote": "I am the danger.",
-            "character": "",
-            "actor": "",
-            "movie": "Breaking Bad",
-            "year": ""
-        },
-        {
-            "quote": "DNA doesn't make a family. Love does.",
-            "character": "",
-            "actor": "",
-            "movie": "The Fosters",
-            "year": ""
-        },
-        {
-            "quote": "Marcia, Marcia, Marcia!",
-            "character": "",
-            "actor": "",
-            "movie": "The Brady Bunch",
-            "year": ""
-        },
-        {
-            "quote": "Clear eyes, full hearts, can't lose.",
-            "character": "",
-            "actor": "",
-            "movie": "Friday Night Lights",
+            "source": "Preacher",
             "year": ""
         },
         {
             "quote": "My name is Fish Mooney, bitch!",
             "character": "",
             "actor": "",
-            "movie": "Gotham",
-            "year": ""
-        },
-        {
-            "quote": "Live, from New York, it's Saturday night!",
-            "character": "",
-            "actor": "",
-            "movie": "Saturday Night Live",
-            "year": ""
-        },
-        {
-            "quote": "Vitameatavegamin.",
-            "character": "",
-            "actor": "",
-            "movie": "I Love Lucy",
-            "year": ""
-        },
-        {
-            "quote": "That's what she said.",
-            "character": "",
-            "actor": "",
-            "movie": "The Office",
-            "year": ""
-        },
-        {
-            "quote": "I've made a huge mistake.",
-            "character": "",
-            "actor": "",
-            "movie": "Arrested Development",
-            "year": ""
-        },
-        {
-            "quote": "What'chu talkin' 'bout, Willis?",
-            "character": "",
-            "actor": "",
-            "movie": "Different Strokes",
-            "year": ""
-        },
-        {
-            "quote": "So pick me, choose me, love me.",
-            "character": "",
-            "actor": "",
-            "movie": "Grey's Anatomy",
-            "year": ""
-        },
-        {
-            "quote": "Treat. Yo. Self.",
-            "character": "",
-            "actor": "",
-            "movie": "Parks and Recreation",
-            "year": ""
-        },
-        {
-            "quote": "If I die, turn my tweets in to a book.",
-            "character": "",
-            "actor": "",
-            "movie": "Brooklyn Nine-Nine",
-            "year": ""
-        },
-        {
-            "quote": "Saving people, hunting things, the family business.",
-            "character": "",
-            "actor": "",
-            "movie": "Supernatural",
-            "year": ""
-        },
-        {
-            "quote": "Hello brother.",
-            "character": "",
-            "actor": "",
-            "movie": "The Vampire Diaries",
-            "year": ""
-        },
-        {
-            "quote": "Is that your final answer?",
-            "character": "",
-            "actor": "",
-            "movie": "Who Wants to Be a Millionaire?",
-            "year": ""
-        },
-        {
-            "quote": "Nobody asked you Patrice!",
-            "character": "",
-            "actor": "",
-            "movie": "How I Met Your Mother",
-            "year": ""
-        },
-        {
-            "quote": "How you doin'?",
-            "character": "",
-            "actor": "",
-            "movie": "Friends",
-            "year": ""
-        },
-        {
-            "quote": "Let's be careful out there.",
-            "character": "",
-            "actor": "",
-            "movie": "Hill Street Blues",
-            "year": ""
-        },
-        {
-            "quote": "I want to go to there.",
-            "character": "",
-            "actor": "",
-            "movie": "30 Rock",
-            "year": ""
-        },
-        {
-            "quote": "It's handled.",
-            "character": "",
-            "actor": "",
-            "movie": "Scandal",
-            "year": ""
-        },
-        {
-            "quote": "Forgive me, but to me you've been dead for centuries.",
-            "character": "",
-            "actor": "",
-            "movie": "The Flash",
-            "year": ""
-        },
-        {
-            "quote": "Oy with the poodles already.",
-            "character": "",
-            "actor": "",
-            "movie": "Gilmore Girls",
-            "year": ""
-        },
-        {
-            "quote": "I'm ready!",
-            "character": "",
-            "actor": "",
-            "movie": "SpongeBob SquarePants",
-            "year": ""
-        },
-        {
-            "quote": "Who wants to be king?",
-            "character": "",
-            "actor": "",
-            "movie": "Vikings",
+            "source": "Gotham",
             "year": ""
         },
         {
             "quote": "Holy mother forking shirt balls!",
             "character": "",
             "actor": "",
-            "movie": "The Good Place",
-            "year": ""
-        },
-        {
-            "quote": "Easy peasy, lemon squeezy.",
-            "character": "",
-            "actor": "",
-            "movie": "The Walking Dead",
-            "year": ""
-        },
-        {
-            "quote": "Oh boy.",
-            "character": "",
-            "actor": "",
-            "movie": "Quantum Leap",
-            "year": ""
-        },
-        {
-            "quote": "You have failed this city!",
-            "character": "",
-            "actor": "",
-            "movie": "Arrow",
-            "year": ""
-        },
-        {
-            "quote": "Never be cruel, never be cowardly. And never eat pears! Remember, hate is always foolish, and love is always wise. Laugh hard. Run fast. Be kind. Doctor, I let you go.",
-            "character": "",
-            "actor": "",
-            "movie": "Doctor Who",
-            "year": ""
-        },
-        {
-            "quote": "Everybody lies.",
-            "character": "",
-            "actor": "",
-            "movie": "House",
-            "year": ""
-        },
-        {
-            "quote": "Every song ends, but is that any reason not to enjoy the music.",
-            "character": "",
-            "actor": "",
-            "movie": "One Tree Hill",
-            "year": ""
-        },
-        {
-            "quote": "Don't touch, Lola.",
-            "character": "",
-            "actor": "",
-            "movie": "Marvel's Agents of S.H.I.E.L.D.",
-            "year": ""
-        },
-        {
-            "quote": "I am the one who knocks.",
-            "character": "",
-            "actor": "",
-            "movie": "Breaking Bad",
-            "year": ""
-        },
-        {
-            "quote": "Survey says!",
-            "character": "",
-            "actor": "",
-            "movie": "Family Feud",
-            "year": ""
-        },
-        {
-            "quote": "What's next?",
-            "character": "",
-            "actor": "",
-            "movie": "The West Wing",
-            "year": ""
-        },
-        {
-            "quote": "Norm!",
-            "character": "",
-            "actor": "",
-            "movie": "Cheers",
-            "year": ""
-        },
-        {
-            "quote": "I lost my shoe.",
-            "character": "",
-            "actor": "",
-            "movie": "Supernatural",
-            "year": ""
-        },
-        {
-            "quote": "Winter is coming.",
-            "character": "",
-            "actor": "",
-            "movie": "Game of Thrones",
-            "year": ""
-        },
-        {
-            "quote": "Do you have any idea who you're talking to?",
-            "character": "",
-            "actor": "",
-            "movie": "The Walking Dead",
-            "year": ""
-        },
-        {
-            "quote": "Your problem is you have spent your whole life thinking there are rules. There aren't. We used to be gorillas. All we had is what we could take and defend.",
-            "character": "",
-            "actor": "",
-            "movie": "Fargo",
-            "year": ""
-        },
-        {
-            "quote": "Oh my God! They killed Kenny!",
-            "character": "",
-            "actor": "",
-            "movie": "South Park",
-            "year": ""
-        },
-        {
-            "quote": "Valar Morghulis.",
-            "character": "",
-            "actor": "",
-            "movie": "Game of Thrones",
-            "year": ""
-        },
-        {
-            "quote": "No soup for you!",
-            "character": "",
-            "actor": "",
-            "movie": "Seinfeld",
-            "year": ""
-        },
-        {
-            "quote": "We have to go back!",
-            "character": "",
-            "actor": "",
-            "movie": "Lost",
-            "year": ""
-        },
-        {
-            "quote": "How hurt you want him?",
-            "character": "",
-            "actor": "",
-            "movie": "Preacher",
-            "year": ""
-        },
-        {
-            "quote": "Who loves ya, baby?",
-            "character": "",
-            "actor": "",
-            "movie": "Kojak",
-            "year": ""
-        },
-        {
-            "quote": "They should've never given us uniforms if they didn’t want us to be an army.",
-            "character": "",
-            "actor": "",
-            "movie": "The Handmaid's Tale",
-            "year": ""
-        },
-        {
-            "quote": "Cut me, and I bleed Dior.",
-            "character": "",
-            "actor": "",
-            "movie": "American Horror Story: Hotel",
-            "year": ""
-        },
-        {
-            "quote": "Gave me cookie, got you cookie.",
-            "character": "",
-            "actor": "",
-            "movie": "New Girl",
-            "year": ""
-        },
-        {
-            "quote": "Friends don't lie.",
-            "character": "",
-            "actor": "",
-            "movie": "Stranger Things",
-            "year": ""
-        },
-        {
-            "quote": "You come at the king, you best not miss.",
-            "character": "",
-            "actor": "",
-            "movie": "The Wire",
+            "source": "The Good Place",
             "year": ""
         },
         {
             "quote": "Bazinga.",
             "character": "",
             "actor": "",
-            "movie": "The Big Bang Theory",
+            "source": "The Big Bang Theory",
             "year": ""
         },
         {
-            "quote": "May we meet again.",
+            "quote": "I lost my shoe.",
             "character": "",
             "actor": "",
-            "movie": "The 100",
+            "source": "Supernatural",
             "year": ""
         },
         {
-            "quote": "You are the weakest link. Goodbye.",
+            "quote": "That's what she said.",
             "character": "",
             "actor": "",
-            "movie": "The Weakest Link",
+            "source": "The Office",
             "year": ""
         },
         {
-            "quote": "Just have a little faith.",
+            "quote": "Do you have any idea who you're talking to?",
             "character": "",
             "actor": "",
-            "movie": "Prison Break",
+            "source": "The Walking Dead",
             "year": ""
         },
         {
-            "quote": "I'll see you in another life, brotha",
+            "quote": "Friends don't lie.",
             "character": "",
             "actor": "",
-            "movie": "Lost",
-            "year": ""
-        },
-        {
-            "quote": "...to boldly go where no man has gone before.",
-            "character": "",
-            "actor": "",
-            "movie": "Star Trek",
-            "year": ""
-        },
-        {
-            "quote": "Make it work.",
-            "character": "",
-            "actor": "",
-            "movie": "Project Runway",
-            "year": ""
-        },
-        {
-            "quote": "Joey doesn't share food!",
-            "character": "",
-            "actor": "",
-            "movie": "Friends",
-            "year": ""
-        },
-        {
-            "quote": "Nobody exists on purpose, nobody belongs anywhere, everybody's gonna die.",
-            "character": "",
-            "actor": "",
-            "movie": "Rick and Morty",
+            "source": "Stranger Things",
             "year": ""
         },
         {
             "quote": "Next time you see my face, show some respect.",
             "character": "",
             "actor": "",
-            "movie": "The Sopranos",
+            "source": "The Sopranos",
+            "year": ""
+        },
+        {
+            "quote": "I am the danger.",
+            "character": "",
+            "actor": "",
+            "source": "Breaking Bad",
+            "year": ""
+        },
+        {
+            "quote": "You have failed this city!",
+            "character": "",
+            "actor": "",
+            "source": "Arrow",
+            "year": ""
+        },
+        {
+            "quote": "Don't touch, Lola.",
+            "character": "",
+            "actor": "",
+            "source": "Marvel's Agents of S.H.I.E.L.D.",
+            "year": ""
+        },
+        {
+            "quote": "I am the one who knocks.",
+            "character": "",
+            "actor": "",
+            "source": "Breaking Bad",
+            "year": ""
+        },
+        {
+            "quote": "I'll see you in another life, brotha",
+            "character": "",
+            "actor": "",
+            "source": "Lost",
+            "year": ""
+        },
+        {
+            "quote": "DNA doesn't make a family. Love does.",
+            "character": "",
+            "actor": "",
+            "source": "The Fosters",
+            "year": ""
+        },
+        {
+            "quote": "Hello brother.",
+            "character": "",
+            "actor": "",
+            "source": "The Vampire Diaries",
+            "year": ""
+        },
+        {
+            "quote": "Joey doesn't share food!",
+            "character": "",
+            "actor": "",
+            "source": "Friends",
+            "year": ""
+        },
+        {
+            "quote": "Never be cruel, never be cowardly. And never eat pears! Remember, hate is always foolish, and love is always wise. Laugh hard. Run fast. Be kind. Doctor, I let you go.",
+            "character": "",
+            "actor": "",
+            "source": "Doctor Who",
+            "year": ""
+        },
+        {
+            "quote": "Nobody asked you Patrice!",
+            "character": "",
+            "actor": "",
+            "source": "How I Met Your Mother",
+            "year": ""
+        },
+        {
+            "quote": "Every song ends, but is that any reason not to enjoy the music.",
+            "character": "",
+            "actor": "",
+            "source": "One Tree Hill",
+            "year": ""
+        },
+        {
+            "quote": "Gave me cookie, got you cookie.",
+            "character": "",
+            "actor": "",
+            "source": "New Girl",
+            "year": ""
+        },
+        {
+            "quote": "Valar Morghulis.",
+            "character": "",
+            "actor": "",
+            "source": "Game of Thrones",
+            "year": ""
+        },
+        {
+            "quote": "Who wants to be king?",
+            "character": "",
+            "actor": "",
+            "source": "Vikings",
+            "year": ""
+        },
+        {
+            "quote": "If I die, turn my tweets in to a book.",
+            "character": "",
+            "actor": "",
+            "source": "Brooklyn Nine-Nine",
+            "year": ""
+        },
+        {
+            "quote": "Just have a little faith.",
+            "character": "",
+            "actor": "",
+            "source": "Prison Break",
+            "year": ""
+        },
+        {
+            "quote": "Forgive me, but to me you've been dead for centuries.",
+            "character": "",
+            "actor": "",
+            "source": "The Flash",
+            "year": ""
+        },
+        {
+            "quote": "Your problem is you have spent your whole life thinking there are rules. There aren't. We used to be gorillas. All we had is what we could take and defend.",
+            "character": "",
+            "actor": "",
+            "source": "Fargo",
+            "year": ""
+        },
+        {
+            "quote": "Cut me, and I bleed Dior.",
+            "character": "",
+            "actor": "",
+            "source": "American Horror Story: Hotel",
+            "year": ""
+        },
+        {
+            "quote": "Easy peasy, lemon squeezy.",
+            "character": "",
+            "actor": "",
+            "source": "The Walking Dead",
             "year": ""
         },
         {
             "quote": "I got this.",
             "character": "",
             "actor": "",
-            "movie": "Sons of Anarchy",
+            "source": "Sons of Anarchy",
+            "year": ""
+        },
+        {
+            "quote": "So pick me, choose me, love me.",
+            "character": "",
+            "actor": "",
+            "source": "Grey's Anatomy",
+            "year": ""
+        },
+        {
+            "quote": "Nobody exists on purpose, nobody belongs anywhere, everybody's gonna die.",
+            "character": "",
+            "actor": "",
+            "source": "Rick and Morty",
+            "year": ""
+        },
+        {
+            "quote": "May we meet again.",
+            "character": "",
+            "actor": "",
+            "source": "The 100",
             "year": ""
         },
         {
             "quote": "By order of the peaky blinders...",
             "character": "",
             "actor": "",
-            "movie": "Peaky Blinders",
+            "source": "Peaky Blinders",
+            "year": ""
+        },
+        {
+            "quote": "Everybody lies.",
+            "character": "",
+            "actor": "",
+            "source": "House",
+            "year": ""
+        },
+        {
+            "quote": "How you doin'?",
+            "character": "",
+            "actor": "",
+            "source": "Friends",
+            "year": ""
+        },
+        {
+            "quote": "They should've never given us uniforms if they didn’t want us to be an army.",
+            "character": "",
+            "actor": "",
+            "source": "The Handmaid's Tale",
+            "year": ""
+        },
+        {
+            "quote": "Saving people, hunting things, the family business.",
+            "character": "",
+            "actor": "",
+            "source": "Supernatural",
+            "year": ""
+        },
+        {
+            "quote": "D'oh!",
+            "character": "",
+            "actor": "",
+            "source": "The Simpsons",
+            "year": ""
+        },
+        {
+            "quote": "Marcia, Marcia, Marcia!",
+            "character": "",
+            "actor": "",
+            "source": "The Brady Bunch",
+            "year": ""
+        },
+        {
+            "quote": "Oh my God! They killed Kenny!",
+            "character": "",
+            "actor": "",
+            "source": "South Park",
+            "year": ""
+        },
+        {
+            "quote": "Clear eyes, full hearts, can't lose.",
+            "character": "",
+            "actor": "",
+            "source": "Friday Night Lights",
+            "year": ""
+        },
+        {
+            "quote": "Let's be careful out there.",
+            "character": "",
+            "actor": "",
+            "source": "Hill Street Blues",
+            "year": ""
+        },
+        {
+            "quote": "The truth is out there.",
+            "character": "",
+            "actor": "",
+            "source": "The X-Files",
+            "year": ""
+        },
+        {
+            "quote": "Make it work.",
+            "character": "",
+            "actor": "",
+            "source": "Project Runway",
+            "year": ""
+        },
+        {
+            "quote": "Treat. Yo. Self.",
+            "character": "",
+            "actor": "",
+            "source": "Parks and Recreation",
+            "year": ""
+        },
+        {
+            "quote": "I want to go to there.",
+            "character": "",
+            "actor": "",
+            "source": "30 Rock",
+            "year": ""
+        },
+        {
+            "quote": "I've made a huge mistake.",
+            "character": "",
+            "actor": "",
+            "source": "Arrested Development",
+            "year": ""
+        },
+        {
+            "quote": "Live, from New York, it's Saturday night!",
+            "character": "",
+            "actor": "",
+            "source": "Saturday Night Live",
+            "year": ""
+        },
+        {
+            "quote": "You come at the king, you best not miss.",
+            "character": "",
+            "actor": "",
+            "source": "The Wire",
+            "year": ""
+        },
+        {
+            "quote": "Oh boy.",
+            "character": "",
+            "actor": "",
+            "source": "Quantum Leap",
+            "year": ""
+        },
+        {
+            "quote": "No soup for you!",
+            "character": "The Soup Nazi",
+            "actor": "",
+            "source": "Seinfeld",
+            "year": ""
+        },
+        {
+            "quote": "Survey says!",
+            "character": "",
+            "actor": "",
+            "source": "Family Feud",
+            "year": ""
+        },
+        {
+            "quote": "Rut roh!",
+            "character": "",
+            "actor": "",
+            "source": "Scooby Doo",
+            "year": ""
+        },
+        {
+            "quote": "Vitameatavegamin.",
+            "character": "",
+            "actor": "",
+            "source": "I Love Lucy",
+            "year": ""
+        },
+        {
+            "quote": "Oy with the poodles already.",
+            "character": "",
+            "actor": "",
+            "source": "Gilmore Girls",
+            "year": ""
+        },
+        {
+            "quote": "Is that your final answer?",
+            "character": "Regis Philbin",
+            "actor": "",
+            "source": "Who Wants to Be a Millionaire",
+            "year": ""
+        },
+        {
+            "quote": "What'chu talkin' 'bout, Willis?",
+            "character": "",
+            "actor": "",
+            "source": "Different Strokes",
+            "year": ""
+        },
+        {
+            "quote": "What's next?",
+            "character": "",
+            "actor": "",
+            "source": "The West Wing",
+            "year": ""
+        },
+        {
+            "quote": "Who loves ya, baby?",
+            "character": "",
+            "actor": "",
+            "source": "Kojak",
+            "year": ""
+        },
+        {
+            "quote": "It's handled.",
+            "character": "",
+            "actor": "",
+            "source": "Scandal",
+            "year": ""
+        },
+        {
+            "quote": "Norm!",
+            "character": "",
+            "actor": "",
+            "source": "Cheers",
+            "year": ""
+        },
+        {
+            "quote": "We have to go back!",
+            "character": "",
+            "actor": "",
+            "source": "Lost",
+            "year": ""
+        },
+        {
+            "quote": "I'm ready!",
+            "character": "",
+            "actor": "",
+            "source": "SpongeBob SquarePants",
+            "year": ""
+        },
+        {
+            "quote": "You are the weakest link. Goodbye.",
+            "character": "",
+            "actor": "",
+            "source": "The Weakest Link",
+            "year": ""
+        },
+        {
+            "quote": "...to boldly go where no man has gone before.",
+            "character": "",
+            "actor": "",
+            "source": "Star Trek",
+            "year": ""
+        },
+        {
+            "quote": "Winter is coming.",
+            "character": "",
+            "actor": "",
+            "source": "Game of Thrones",
+            "year": ""
+        },
+        {
+            "quote": "Nip it!",
+            "character": "Barney Fife",
+            "actor": "",
+            "source": "The Andy Griffith Show",
+            "year": ""
+        },
+        {
+            "quote": "Yeah, that’s the ticket",
+            "character": "Jon Lovitz as the pathological liar",
+            "actor": "",
+            "source": "Saturday Night Live",
+            "year": ""
+        },
+        {
+            "quote": "I’m Larry, this is my brother Darryl …",
+            "character": "Larry",
+            "actor": "",
+            "source": "Newhart",
+            "year": ""
+        },
+        {
+            "quote": "God’ll get you for that",
+            "character": "Maude",
+            "actor": "",
+            "source": "Maude",
+            "year": ""
+        },
+        {
+            "quote": "I love it when a plan comes together",
+            "character": "Hannibal",
+            "actor": "",
+            "source": "The A-Team",
+            "year": ""
+        },
+        {
+            "quote": "This is the city …",
+            "character": "Sgt. Joe Friday",
+            "actor": "",
+            "source": "Dragnet",
+            "year": ""
+        },
+        {
+            "quote": "Resistance is futile",
+            "character": "Picard as Borg",
+            "actor": "",
+            "source": "Star Trek: The Next Generation",
+            "year": ""
+        },
+        {
+            "quote": "Oh, my nose!",
+            "character": "Marcia Brady",
+            "actor": "",
+            "source": "The Brady Bunch",
+            "year": ""
+        },
+        {
+            "quote": "Suit up!",
+            "character": "Barney Stinson",
+            "actor": "",
+            "source": "How I Met Your Mother",
+            "year": ""
+        },
+        {
+            "quote": "Mom always liked you best",
+            "character": "Tommy Smothers",
+            "actor": "",
+            "source": "The Smothers Brothers Comedy Hour",
+            "year": ""
+        },
+        {
+            "quote": "Hey now!",
+            "character": "Hank Kingsley",
+            "actor": "",
+            "source": "The Larry Sanders Show",
+            "year": ""
+        },
+        {
+            "quote": "That’s hot",
+            "character": "Paris Hilton",
+            "actor": "",
+            "source": "The Simple Life",
+            "year": ""
+        },
+        {
+            "quote": "Just one more thing …",
+            "character": "Columbo",
+            "actor": "",
+            "source": "Columbo",
+            "year": ""
+        },
+        {
+            "quote": "The truth is out there",
+            "character": "Fox Mulder",
+            "actor": "",
+            "source": "The X-Files",
+            "year": ""
+        },
+        {
+            "quote": "Welcome to the O.C., bitch",
+            "character": "Luke",
+            "actor": "",
+            "source": "The O.C.",
+            "year": ""
+        },
+        {
+            "quote": "You eeeediot!",
+            "character": "Ren",
+            "actor": "",
+            "source": "Ren & Stimpy",
+            "year": ""
+        },
+        {
+            "quote": "Now cut that out!",
+            "character": "Jack Benny",
+            "actor": "",
+            "source": "The Jack Benny Program",
+            "year": ""
+        },
+        {
+            "quote": "The tribe has spoken",
+            "character": "Jeff Probst",
+            "actor": "",
+            "source": "Survivor",
+            "year": ""
+        },
+        {
+            "quote": "Holy crap!",
+            "character": "Frank Barone",
+            "actor": "",
+            "source": "Everybody Loves Raymond",
+            "year": ""
+        },
+        {
+            "quote": "Bam!",
+            "character": "Emeril Lagasse",
+            "actor": "",
+            "source": "Emeril Live",
+            "year": ""
+        },
+        {
+            "quote": "I’m Rick James, bitch!",
+            "character": "Dave Chappelle as Rick James",
+            "actor": "",
+            "source": "Chappelle’s Show",
+            "year": ""
+        },
+        {
+            "quote": "Denny Crane",
+            "character": "Denny Crane",
+            "actor": "",
+            "source": "Boston Legal",
+            "year": ""
+        },
+        {
+            "quote": "I know nothing!",
+            "character": "Sgt. Schultz",
+            "actor": "",
+            "source": "Hogan’s Heroes",
+            "year": ""
+        },
+        {
+            "quote": "Let’s be careful out there",
+            "character": "Sgt. Esterhaus",
+            "actor": "",
+            "source": "Hill Street Blues",
+            "year": ""
+        },
+        {
+            "quote": "Schwing!",
+            "character": "Mike Myers and Dana Carvey as Wayne and Garth",
+            "actor": "",
+            "source": "Saturday Night Live",
+            "year": ""
+        },
+        {
+            "quote": "Tell me what you don’t like about yourself",
+            "character": "Dr. McNamara and Dr. Troy",
+            "actor": "",
+            "source": "Nip/Tuck",
+            "year": ""
+        },
+        {
+            "quote": "Up your nose with a rubber hose",
+            "character": "Vinnie Barbarino",
+            "actor": "",
+            "source": "Welcome Back, Kotter",
+            "year": ""
+        },
+        {
+            "quote": "Heh heh",
+            "character": "Beavis and Butt-head",
+            "actor": "",
+            "source": "Beavis and Butthead",
+            "year": ""
+        },
+        {
+            "quote": "Makin’ whoopie",
+            "character": "Bob Eubanks",
+            "actor": "",
+            "source": "The Newlywed Game",
+            "year": ""
+        },
+        {
+            "quote": "Who loves you, baby?",
+            "character": "Kojak",
+            "actor": "",
+            "source": "Kojak",
+            "year": ""
+        },
+        {
+            "quote": "Gee, Mrs. Cleaver …",
+            "character": "Eddie Haskell",
+            "actor": "",
+            "source": "Leave it to Beaver",
+            "year": ""
+        },
+        {
+            "quote": "Say good night, Gracie",
+            "character": "George Burns",
+            "actor": "",
+            "source": "The Burns & Allen Show",
+            "year": ""
+        },
+        {
+            "quote": "We’ve got a really big show!",
+            "character": "Ed Sullivan",
+            "actor": "",
+            "source": "The Ed Sullivan Show",
+            "year": ""
+        },
+        {
+            "quote": "Elizabeth, I’m coming!",
+            "character": "Fred Sanford",
+            "actor": "",
+            "source": "Sanford and Son",
+            "year": ""
+        },
+        {
+            "quote": "Don’t make me angry …",
+            "character": "David Banner",
+            "actor": "",
+            "source": "The Incredible Hulk",
+            "year": ""
+        },
+        {
+            "quote": "Hey HEY hey!",
+            "character": "Dwayne Nelson",
+            "actor": "",
+            "source": "What’s Happening!!",
+            "year": ""
+        },
+        {
+            "quote": "Holy ____________, Batman!",
+            "character": "Robin",
+            "actor": "",
+            "source": "Batman",
+            "year": ""
+        },
+        {
+            "quote": "What you see is what you get!",
+            "character": "Geraldine",
+            "actor": "",
+            "source": "The Flip Wilson Show",
+            "year": ""
+        },
+        {
+            "quote": "Never assume …",
+            "character": "Felix Unger",
+            "actor": "",
+            "source": "The Odd Couple",
+            "year": ""
+        },
+        {
+            "quote": "You rang?",
+            "character": "Lurch",
+            "actor": "",
+            "source": "The Addams Family",
+            "year": ""
+        },
+        {
+            "quote": "Danger, Will Robinson",
+            "character": "Robot",
+            "actor": "",
+            "source": "Lost in Space",
+            "year": ""
+        },
+        {
+            "quote": "How YOU doin’?",
+            "character": "Joey Tribbiani",
+            "actor": "",
+            "source": "Friends",
+            "year": ""
+        },
+        {
+            "quote": "Two thumbs up",
+            "character": "Siskel & Ebert",
+            "actor": "",
+            "source": "Siskel & Ebert",
+            "year": ""
+        },
+        {
+            "quote": "You look mahvelous!",
+            "character": "Billy Crystal as Fernando",
+            "actor": "",
+            "source": "Saturday Night Live",
+            "year": ""
+        },
+        {
+            "quote": "Good night, and good luck",
+            "character": "Edward R. Murrow",
+            "actor": "",
+            "source": "See It Now",
+            "year": ""
+        },
+        {
+            "quote": "Stifle!",
+            "character": "Archie Bunker",
+            "actor": "",
+            "source": "All in the Family",
+            "year": ""
+        },
+        {
+            "quote": "Would you believe?",
+            "character": "Maxwell Smart",
+            "actor": "",
+            "source": "Get Smart",
+            "year": ""
+        },
+        {
+            "quote": "Well, isn’t that special?",
+            "character": "Dana Carvey as the Church Lady",
+            "actor": "",
+            "source": "Saturday Night Live",
+            "year": ""
+        },
+        {
+            "quote": "Oh, my God! They killed Kenny!",
+            "character": "Stan and Kyle",
+            "actor": "",
+            "source": "South Park",
+            "year": ""
+        },
+        {
+            "quote": "You’ve got spunk …",
+            "character": "Lou Grant",
+            "actor": "",
+            "source": "The Mary Tyler Moore Show",
+            "year": ""
+        },
+        {
+            "quote": "Homey don’t play that!",
+            "character": "Homey the Clown",
+            "actor": "",
+            "source": "In Living Color",
+            "year": ""
+        },
+        {
+            "quote": "How sweet it is!",
+            "character": "Jackie Gleason",
+            "actor": "",
+            "source": "The Jackie Gleason Show",
+            "year": ""
+        },
+        {
+            "quote": "The thrill of victory, the agony of defeat",
+            "character": "Jim McKay",
+            "actor": "",
+            "source": "ABC’s Wide World of Sports",
+            "year": ""
+        },
+        {
+            "quote": "De plane! De plane!",
+            "character": "Tattoo",
+            "actor": "",
+            "source": "Fantasy Island",
+            "year": ""
+        },
+        {
+            "quote": "Jane, you ignorant slut",
+            "character": "Dan Aykroyd to Jane Curtin",
+            "actor": "",
+            "source": "Saturday Night Live",
+            "year": ""
+        },
+        {
+            "quote": "Live long and prosper",
+            "character": "Spock",
+            "actor": "",
+            "source": "Star Trek",
+            "year": ""
+        },
+        {
+            "quote": "And that’s the way it is",
+            "character": "Walter Cronkite",
+            "actor": "",
+            "source": "CBS Evening News",
+            "year": ""
+        },
+        {
+            "quote": "Come on down!",
+            "character": "Johnny Olson",
+            "actor": "",
+            "source": "The Price is Right",
+            "year": ""
+        },
+        {
+            "quote": "Hey hey HEEY!",
+            "character": "Fat Albert",
+            "actor": "",
+            "source": "Fat Albert",
+            "year": ""
+        },
+        {
+            "quote": "Book ’em, Danno",
+            "character": "Steve McGarrett",
+            "actor": "",
+            "source": "Hawaii Five-O",
+            "year": ""
+        },
+        {
+            "quote": "Space, the final frontier …",
+            "character": "Capt. Kirk",
+            "actor": "",
+            "source": "Star Trek",
+            "year": ""
+        },
+        {
+            "quote": "We are two wild and crazy guys!",
+            "character": "Steve Martin and Dan Aykroyd as Czech playboys",
+            "actor": "",
+            "source": "Saturday Night Live",
+            "year": ""
+        },
+        {
+            "quote": "Dyn-o-mite",
+            "character": "J.J.",
+            "actor": "",
+            "source": "Good Times",
+            "year": ""
+        },
+        {
+            "quote": "Aaay",
+            "character": "Fonzie",
+            "actor": "",
+            "source": "Happy Days",
+            "year": ""
+        },
+        {
+            "quote": "Yabba dabba do!",
+            "character": "Fred Flintstone",
+            "actor": "",
+            "source": "The Flintstones",
+            "year": ""
+        },
+        {
+            "quote": "Whatchoo talkin’ ’bout, Willis?",
+            "character": "Arnold Drummond",
+            "actor": "",
+            "source": "Diff’rent Strokes",
+            "year": ""
+        },
+        {
+            "quote": "D’oh!",
+            "character": "Homer Simpson",
+            "actor": "",
+            "source": "The Simpsons",
+            "year": ""
+        },
+        {
+            "quote": "Baby, you’re the greatest",
+            "character": "Ralph Kramden",
+            "actor": "",
+            "source": "The Honeymooners",
+            "year": ""
+        },
+        {
+            "quote": "You’re fired!",
+            "character": "Donald Trump",
+            "actor": "",
+            "source": "The Apprentice",
+            "year": ""
+        },
+        {
+            "quote": "Here’s Johnny!",
+            "character": "Ed McMahon",
+            "actor": "",
+            "source": "The Tonight Show",
             "year": ""
         }
     ]
