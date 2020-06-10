@@ -57,7 +57,7 @@ def post_utterrances(file, url, auth_token):
                 payload.append(temp_dict)
 
     for i in range(0, len(payload), 200):
-        response = requests.post(url, json=payload[i: i + 200], headers=header)
+        response = requests.post(url, json=payload[i : i + 200], headers=header)
         logger.debug(f"Response for training:\n {response.json()}")
         time.sleep(70)
 
