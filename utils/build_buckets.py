@@ -6,6 +6,7 @@ from wit import Wit
 env = env_file.load('.env')
 AUTH_TOKEN = os.environ.get("AUTH_TOKEN")
 JSON_FILE = os.environ.get("JSON_FILE")
+QUOTE_FILE = os.environ.get("QUOTE_FILE")
 client = Wit(AUTH_TOKEN)
 decode = {"intent_0": "none", "intent_1": "anger", "intent_2": "disgust", "intent_3": "fear", "intent_4": "happiness", "intent_5": "sadness", "intent_6": "surprise"}
 
@@ -28,16 +29,9 @@ def storeIntents(data):
 		
 
 def writeJSON(filename, obj):
-	with open(str(os.getcwd()) + "data/" + "quote_by_intent/" + decode[filename] + ".json", "a+") as f:
+	with open(str(os.getcwd()) + "data/" + QUOTE_FILE + "/" + decode[filename] + ".json", "a+") as f:
 		obj["intent"] = decode[filename]
 		json.dump(obj, f, ensure_ascii=False, indent=4)
 
 data = getJSON()
 storeIntents(data)
-
-getIntent("Hello, how are you?", 2)
-
-
-
-
-#[{'id': '254499052502584', 'name': 'intent_4', 'confidence': 0.9061}, {'id': '1547202888786598', 'name': 'intent_0', 'confidence': 0.0537}]
