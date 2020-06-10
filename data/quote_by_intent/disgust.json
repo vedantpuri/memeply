@@ -1,0 +1,64 @@
+{
+    "quote": "Rosebud.",
+    "character": "Charles Foster Kane",
+    "actor": "Orson Welles",
+    "source": "Citizen Kane",
+    "year": "1941",
+    "intent": "disgust"
+}{
+    "quote": "Badges? We ain't got no badges! We don't need no badges! I don't have to show you any stinking badges!",
+    "character": "Gold Hat",
+    "actor": "Alfonso Bedoya",
+    "source": "The Treasure of the Sierra Madre",
+    "year": "1948",
+    "intent": "disgust"
+}{
+    "quote": "Get your stinking paws off me, you damned dirty ape.",
+    "character": "George Taylor",
+    "actor": "Charlton Heston",
+    "source": "Planet of the Apes",
+    "year": "1968",
+    "intent": "disgust"
+}{
+    "quote": "A martini. Shaken, not stirred.",
+    "character": "James Bond",
+    "actor": "Sean Connery",
+    "source": "Goldfinger",
+    "year": "1964",
+    "intent": "disgust"
+}{
+    "quote": "Snap out of it!",
+    "character": "Loretta Castorini",
+    "actor": "Cher",
+    "source": "Moonstruck",
+    "year": "1987",
+    "intent": "disgust"
+}{
+    "quote": "I'm the king of the world!",
+    "character": "Jack Dawson",
+    "actor": "Leonardo DiCaprio",
+    "source": "Titanic",
+    "year": "1997",
+    "intent": "disgust"
+}{
+    "quote": "Clear eyes, full hearts, can't lose.",
+    "character": "",
+    "actor": "",
+    "source": "Friday Night Lights",
+    "year": "",
+    "intent": "disgust"
+}{
+    "quote": "I'm ready!",
+    "character": "",
+    "actor": "",
+    "source": "SpongeBob SquarePants",
+    "year": "",
+    "intent": "disgust"
+}{
+    "quote": "I’m Rick James, bitch!",
+    "character": "Dave Chappelle as Rick James",
+    "actor": "",
+    "source": "Chappelle’s Show",
+    "year": "",
+    "intent": "disgust"
+}

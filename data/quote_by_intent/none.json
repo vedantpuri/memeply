@@ -1,0 +1,120 @@
+{
+    "quote": "I'm gonna make him an offer he can't refuse.",
+    "character": "Vito Corleone",
+    "actor": "Marlon Brando",
+    "source": "The Godfather",
+    "year": "1972",
+    "intent": "none"
+}{
+    "quote": "E.T. phone home.",
+    "character": "E.T.",
+    "actor": "Pat Welsh",
+    "source": "E.T. the Extra-Terrestrial",
+    "year": "1982",
+    "intent": "none"
+}{
+    "quote": "There's no place like home.",
+    "character": "Dorothy Gale",
+    "actor": "Judy Garland",
+    "source": "The Wizard of Oz",
+    "year": "1939",
+    "intent": "none"
+}{
+    "quote": "Stella! Hey, Stella!",
+    "character": "Stanley Kowalski",
+    "actor": "Marlon Brando",
+    "source": "A Streetcar Named Desire",
+    "year": "1951",
+    "intent": "none"
+}{
+    "quote": "There's no crying in baseball!",
+    "character": "Jimmy Dugan",
+    "actor": "Tom Hanks",
+    "source": "A League of Their Own",
+    "year": "1992",
+    "intent": "none"
+}{
+    "quote": "Here's Johnny!",
+    "character": "Jack Torrance",
+    "actor": "Jack Nicholson",
+    "source": "The Shining",
+    "year": "1980",
+    "intent": "none"
+}{
+    "quote": "Is it safe?",
+    "character": "Dr. Christian Szell",
+    "actor": "Laurence Olivier",
+    "source": "Marathon Man",
+    "year": "1976",
+    "intent": "none"
+}{
+    "quote": "Nobody puts Baby in a corner.",
+    "character": "Johnny Castle",
+    "actor": "Patrick Swayze",
+    "source": "Dirty Dancing",
+    "year": "1987",
+    "intent": "none"
+}{
+    "quote": "Hello brother.",
+    "character": "",
+    "actor": "",
+    "source": "The Vampire Diaries",
+    "year": "",
+    "intent": "none"
+}{
+    "quote": "Who wants to be king?",
+    "character": "",
+    "actor": "",
+    "source": "Vikings",
+    "year": "",
+    "intent": "none"
+}{
+    "quote": "Just have a little faith.",
+    "character": "",
+    "actor": "",
+    "source": "Prison Break",
+    "year": "",
+    "intent": "none"
+}{
+    "quote": "We have to go back!",
+    "character": "",
+    "actor": "",
+    "source": "Lost",
+    "year": "",
+    "intent": "none"
+}{
+    "quote": "Up your nose with a rubber hose",
+    "character": "Vinnie Barbarino",
+    "actor": "",
+    "source": "Welcome Back, Kotter",
+    "year": "",
+    "intent": "none"
+}{
+    "quote": "Heh heh",
+    "character": "Beavis and Butt-head",
+    "actor": "",
+    "source": "Beavis and Butthead",
+    "year": "",
+    "intent": "none"
+}{
+    "quote": "Makin’ whoopie",
+    "character": "Bob Eubanks",
+    "actor": "",
+    "source": "The Newlywed Game",
+    "year": "",
+    "intent": "none"
+}{
+    "quote": "We are two wild and crazy guys!",
+    "character": "Steve Martin and Dan Aykroyd as Czech playboys",
+    "actor": "",
+    "source": "Saturday Night Live",
+    "year": "",
+    "intent": "none"
+}{
+    "quote": "Here’s Johnny!",
+    "character": "Ed McMahon",
+    "actor": "",
+    "source": "The Tonight Show",
+    "year": "",
+    "intent": "none"
+}

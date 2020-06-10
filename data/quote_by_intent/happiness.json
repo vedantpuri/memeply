@@ -1,0 +1,841 @@
+{
+    "quote": "You don't understand! I coulda had class. I coulda been a contender. I could've been somebody, instead of a bum, which is what I am.",
+    "character": "Terry Malloy",
+    "actor": "Marlon Brando",
+    "source": "On the Waterfront",
+    "year": "1954",
+    "intent": "happiness"
+}{
+    "quote": "Here's looking at you, kid.",
+    "character": "Rick Blaine",
+    "actor": "Humphrey Bogart",
+    "source": "Casablanca",
+    "year": "1942",
+    "intent": "happiness"
+}{
+    "quote": "Go ahead, make my day.",
+    "character": "Harry Callahan",
+    "actor": "Clint Eastwood",
+    "source": "Sudden Impact",
+    "year": "1983",
+    "intent": "happiness"
+}{
+    "quote": "May the Force be with you.",
+    "character": "Han Solo",
+    "actor": "Harrison Ford",
+    "source": "Star Wars",
+    "year": "1977",
+    "intent": "happiness"
+}{
+    "quote": "Fasten your seatbelts. It's going to be a bumpy night.",
+    "character": "Margo Channing",
+    "actor": "Bette Davis",
+    "source": "All About Eve",
+    "year": "1950",
+    "intent": "happiness"
+}{
+    "quote": "What we've got here is failure to communicate.",
+    "character": "Captain",
+    "actor": "Strother Martin",
+    "source": "Cool Hand Luke",
+    "year": "1967",
+    "intent": "happiness"
+}{
+    "quote": "I love the smell of napalm in the morning.",
+    "character": "Lt. Col. Bill Kilgore",
+    "actor": "Robert Duvall",
+    "source": "Apocalypse Now",
+    "year": "1979",
+    "intent": "happiness"
+}{
+    "quote": "The stuff that dreams are made of.",
+    "character": "Sam Spade",
+    "actor": "Humphrey Bogart",
+    "source": "The Maltese Falcon",
+    "year": "1941",
+    "intent": "happiness"
+}{
+    "quote": "Made it, Ma! Top of the world!",
+    "character": "Arthur \"Cody\" Jarrett",
+    "actor": "James Cagney",
+    "source": "White Heat",
+    "year": "1949",
+    "intent": "happiness"
+}{
+    "quote": "Louis, I think this is the beginning of a beautiful friendship.",
+    "character": "Rick Blaine",
+    "actor": "Humphrey Bogart",
+    "source": "Casablanca",
+    "year": "1942",
+    "intent": "happiness"
+}{
+    "quote": "A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.",
+    "character": "Hannibal Lecter",
+    "actor": "Anthony Hopkins",
+    "source": "The Silence of the Lambs",
+    "year": "1991",
+    "intent": "happiness"
+}{
+    "quote": "I am big! It's the pictures that got small.",
+    "character": "Norma Desmond",
+    "actor": "Gloria Swanson",
+    "source": "Sunset Boulevard",
+    "year": "1950",
+    "intent": "happiness"
+}{
+    "quote": "Why don't you come up sometime and see me?",
+    "character": "Lady Lou",
+    "actor": "Mae West",
+    "source": "She Done Him Wrong",
+    "year": "1933",
+    "intent": "happiness"
+}{
+    "quote": "Play it, Sam. Play 'As Time Goes By.'",
+    "character": "Ilsa Lund",
+    "actor": "Ingrid Bergman",
+    "source": "Casablanca",
+    "year": "1942",
+    "intent": "happiness"
+}{
+    "quote": "You can't handle the truth!",
+    "character": "Col. Nathan R. Jessup",
+    "actor": "Jack Nicholson",
+    "source": "A Few Good Men",
+    "year": "1992",
+    "intent": "happiness"
+}{
+    "quote": "Round up the usual suspects.",
+    "character": "Capt. Louis Renault",
+    "actor": "Claude Rains",
+    "source": "Casablanca",
+    "year": "1942",
+    "intent": "happiness"
+}{
+    "quote": "If you build it, he will come.",
+    "character": "Shoeless Joe Jackson",
+    "actor": "Ray Liotta (voice)",
+    "source": "Field of Dreams",
+    "year": "1989",
+    "intent": "happiness"
+}{
+    "quote": "Mama always said life was like a box of chocolates. You never know what you're gonna get.",
+    "character": "Forrest Gump",
+    "actor": "Tom Hanks",
+    "source": "Forrest Gump",
+    "year": "1994",
+    "intent": "happiness"
+}{
+    "quote": "We rob banks.",
+    "character": "Clyde Barrow",
+    "actor": "Warren Beatty",
+    "source": "Bonnie and Clyde",
+    "year": "1967",
+    "intent": "happiness"
+}{
+    "quote": "Plastics.",
+    "character": "Mr. Maguire",
+    "actor": "Walter Brooke",
+    "source": "The Graduate",
+    "year": "1967",
+    "intent": "happiness"
+}{
+    "quote": "We'll always have Paris.",
+    "character": "Rick Blaine",
+    "actor": "Humphrey Bogart",
+    "source": "Casablanca",
+    "year": "1942",
+    "intent": "happiness"
+}{
+    "quote": "Oh, Jerry, don't let's ask for the moon. We have the stars.",
+    "character": "Charlotte Vale",
+    "actor": "Bette Davis",
+    "source": "Now, Voyager",
+    "year": "1942",
+    "intent": "happiness"
+}{
+    "quote": "Shane. Shane. Come back!",
+    "character": "Joey Starrett",
+    "actor": "Brandon De Wilde",
+    "source": "Shane",
+    "year": "1953",
+    "intent": "happiness"
+}{
+    "quote": "Well, nobody's perfect.",
+    "character": "Osgood Fielding III",
+    "actor": "Joe E. Brown",
+    "source": "Some Like It Hot",
+    "year": "1959",
+    "intent": "happiness"
+}{
+    "quote": "Houston, we have a problem.",
+    "character": "Jim Lovell",
+    "actor": "Tom Hanks",
+    "source": "Apollo 13",
+    "year": "1995",
+    "intent": "happiness"
+}{
+    "quote": "You've got to ask yourself one question: 'Do I feel lucky?' Well, do ya, punk?",
+    "character": "Harry Callahan",
+    "actor": "Clint Eastwood",
+    "source": "Dirty Harry",
+    "year": "1971",
+    "intent": "happiness"
+}{
+    "quote": "La-dee-da, la-dee-da.",
+    "character": "Annie Hall",
+    "actor": "Diane Keaton",
+    "source": "Annie Hall",
+    "year": "1977",
+    "intent": "happiness"
+}{
+    "quote": "A boy's best friend is his mother.",
+    "character": "Norman Bates",
+    "actor": "Anthony Perkins",
+    "source": "Psycho",
+    "year": "1960",
+    "intent": "happiness"
+}{
+    "quote": "Greed, for lack of a better word, is good.",
+    "character": "Gordon Gekko",
+    "actor": "Michael Douglas",
+    "source": "Wall Street",
+    "year": "1987",
+    "intent": "happiness"
+}{
+    "quote": "Keep your friends close, but your enemies closer.",
+    "character": "Michael Corleone",
+    "actor": "Al Pacino",
+    "source": "The Godfather Part II",
+    "year": "1974",
+    "intent": "happiness"
+}{
+    "quote": "Well, here's another nice mess you've gotten me into!",
+    "character": "Oliver",
+    "actor": "Oliver Hardy",
+    "source": "Sons of the Desert",
+    "year": "1933",
+    "intent": "happiness"
+}{
+    "quote": "Say 'hello' to my little friend!",
+    "character": "Tony Montana",
+    "actor": "Al Pacino",
+    "source": "Scarface",
+    "year": "1983",
+    "intent": "happiness"
+}{
+    "quote": "Of all the gin joints in all the towns in all the world, she walks into mine.",
+    "character": "Rick Blaine",
+    "actor": "Humphrey Bogart",
+    "source": "Casablanca",
+    "year": "1942",
+    "intent": "happiness"
+}{
+    "quote": "They're here!",
+    "character": "Carol Anne Freeling",
+    "actor": "Heather O'Rourke",
+    "source": "Poltergeist",
+    "year": "1982",
+    "intent": "happiness"
+}{
+    "quote": "Hasta la vista, baby.",
+    "character": "The Terminator",
+    "actor": "Arnold Schwarzenegger",
+    "source": "Terminator 2: Judgment Day",
+    "year": "1991",
+    "intent": "happiness"
+}{
+    "quote": "Soylent Green is people!",
+    "character": "Det. Robert Thorn",
+    "actor": "Charlton Heston",
+    "source": "Soylent Green",
+    "year": "1973",
+    "intent": "happiness"
+}{
+    "quote": "Open the pod bay doors, HAL.",
+    "character": "Dave Bowman",
+    "actor": "Keir Dullea",
+    "source": "2001: A Space Odyssey",
+    "year": "1968",
+    "intent": "happiness"
+}{
+    "quote": "triker: \"Surely you can't be serious.\" Rumack: \"I am serious … and don't call me Shirley.",
+    "character": "Ted Striker and Dr. Rumack",
+    "actor": "Robert Hays and Leslie Nielsen",
+    "source": "Airplane!",
+    "year": "1980",
+    "intent": "happiness"
+}{
+    "quote": "Hello, gorgeous.",
+    "character": "Fanny Brice",
+    "actor": "Barbra Streisand",
+    "source": "Funny Girl",
+    "year": "1968",
+    "intent": "happiness"
+}{
+    "quote": "Listen to them. Children of the night. What music they make.",
+    "character": "Count Dracula",
+    "actor": "Bela Lugosi",
+    "source": "Dracula",
+    "year": "1931",
+    "intent": "happiness"
+}{
+    "quote": "Oh, no, it wasn't the airplanes. It was Beauty killed the Beast.",
+    "character": "Carl Denham",
+    "actor": "Robert Armstrong",
+    "source": "King Kong",
+    "year": "1933",
+    "intent": "happiness"
+}{
+    "quote": "Attica! Attica!",
+    "character": "Sonny Wortzik",
+    "actor": "Al Pacino",
+    "source": "Dog Day Afternoon",
+    "year": "1975",
+    "intent": "happiness"
+}{
+    "quote": "Sawyer, you're going out a youngster, but you've got to come back a star!",
+    "character": "Julian Marsh",
+    "actor": "Warner Baxter",
+    "source": "42nd Street",
+    "year": "1933",
+    "intent": "happiness"
+}{
+    "quote": "Tell 'em to go out there with all they got and win just one for the Gipper.",
+    "character": "Knute Rockne",
+    "actor": "Pat O'Brien",
+    "source": "Knute Rockne, All American",
+    "year": "1940",
+    "intent": "happiness"
+}{
+    "quote": "Cinderella story. Outta nowhere. A former greenskeeper, now, about to become the Masters champion. It looks like a mirac...It's in the hole! It's in the hole! It's in the hole!",
+    "character": "Carl Spackler",
+    "actor": "Bill Murray",
+    "source": "Caddyshack",
+    "year": "1980",
+    "intent": "happiness"
+}{
+    "quote": "Carpe diem. Seize the day, boys. Make your lives extraordinary.",
+    "character": "John Keating",
+    "actor": "Robin Williams",
+    "source": "Dead Poets Society",
+    "year": "1989",
+    "intent": "happiness"
+}{
+    "quote": "My mother thanks you. My father thanks you. My sister thanks you. And I thank you.",
+    "character": "George M. Cohan",
+    "actor": "James Cagney",
+    "source": "Yankee Doodle Dandy",
+    "year": "1942",
+    "intent": "happiness"
+}{
+    "quote": "I'll get you, my pretty, and your little dog too!",
+    "character": "Wicked Witch of the West",
+    "actor": "Margaret Hamilton",
+    "source": "The Wizard of Oz",
+    "year": "1939",
+    "intent": "happiness"
+}{
+    "quote": "That's what she said.",
+    "character": "",
+    "actor": "",
+    "source": "The Office",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Next time you see my face, show some respect.",
+    "character": "",
+    "actor": "",
+    "source": "The Sopranos",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "I am the danger.",
+    "character": "",
+    "actor": "",
+    "source": "Breaking Bad",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Don't touch, Lola.",
+    "character": "",
+    "actor": "",
+    "source": "Marvel's Agents of S.H.I.E.L.D.",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "I am the one who knocks.",
+    "character": "",
+    "actor": "",
+    "source": "Breaking Bad",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "I'll see you in another life, brotha",
+    "character": "",
+    "actor": "",
+    "source": "Lost",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "DNA doesn't make a family. Love does.",
+    "character": "",
+    "actor": "",
+    "source": "The Fosters",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Every song ends, but is that any reason not to enjoy the music.",
+    "character": "",
+    "actor": "",
+    "source": "One Tree Hill",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Gave me cookie, got you cookie.",
+    "character": "",
+    "actor": "",
+    "source": "New Girl",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "If I die, turn my tweets in to a book.",
+    "character": "",
+    "actor": "",
+    "source": "Brooklyn Nine-Nine",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Your problem is you have spent your whole life thinking there are rules. There aren't. We used to be gorillas. All we had is what we could take and defend.",
+    "character": "",
+    "actor": "",
+    "source": "Fargo",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Easy peasy, lemon squeezy.",
+    "character": "",
+    "actor": "",
+    "source": "The Walking Dead",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "So pick me, choose me, love me.",
+    "character": "",
+    "actor": "",
+    "source": "Grey's Anatomy",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "May we meet again.",
+    "character": "",
+    "actor": "",
+    "source": "The 100",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "How you doin'?",
+    "character": "",
+    "actor": "",
+    "source": "Friends",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Saving people, hunting things, the family business.",
+    "character": "",
+    "actor": "",
+    "source": "Supernatural",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Marcia, Marcia, Marcia!",
+    "character": "",
+    "actor": "",
+    "source": "The Brady Bunch",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Let's be careful out there.",
+    "character": "",
+    "actor": "",
+    "source": "Hill Street Blues",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "The truth is out there.",
+    "character": "",
+    "actor": "",
+    "source": "The X-Files",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Make it work.",
+    "character": "",
+    "actor": "",
+    "source": "Project Runway",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Treat. Yo. Self.",
+    "character": "",
+    "actor": "",
+    "source": "Parks and Recreation",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "I want to go to there.",
+    "character": "",
+    "actor": "",
+    "source": "30 Rock",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Live, from New York, it's Saturday night!",
+    "character": "",
+    "actor": "",
+    "source": "Saturday Night Live",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "You come at the king, you best not miss.",
+    "character": "",
+    "actor": "",
+    "source": "The Wire",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "No soup for you!",
+    "character": "The Soup Nazi",
+    "actor": "",
+    "source": "Seinfeld",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Survey says!",
+    "character": "",
+    "actor": "",
+    "source": "Family Feud",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Vitameatavegamin.",
+    "character": "",
+    "actor": "",
+    "source": "I Love Lucy",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Is that your final answer?",
+    "character": "Regis Philbin",
+    "actor": "",
+    "source": "Who Wants to Be a Millionaire",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "What's next?",
+    "character": "",
+    "actor": "",
+    "source": "The West Wing",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Who loves ya, baby?",
+    "character": "",
+    "actor": "",
+    "source": "Kojak",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "It's handled.",
+    "character": "",
+    "actor": "",
+    "source": "Scandal",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Norm!",
+    "character": "",
+    "actor": "",
+    "source": "Cheers",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "You are the weakest link. Goodbye.",
+    "character": "",
+    "actor": "",
+    "source": "The Weakest Link",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "...to boldly go where no man has gone before.",
+    "character": "",
+    "actor": "",
+    "source": "Star Trek",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Winter is coming.",
+    "character": "",
+    "actor": "",
+    "source": "Game of Thrones",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Nip it!",
+    "character": "Barney Fife",
+    "actor": "",
+    "source": "The Andy Griffith Show",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "God’ll get you for that",
+    "character": "Maude",
+    "actor": "",
+    "source": "Maude",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "I love it when a plan comes together",
+    "character": "Hannibal",
+    "actor": "",
+    "source": "The A-Team",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "This is the city …",
+    "character": "Sgt. Joe Friday",
+    "actor": "",
+    "source": "Dragnet",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Suit up!",
+    "character": "Barney Stinson",
+    "actor": "",
+    "source": "How I Met Your Mother",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Mom always liked you best",
+    "character": "Tommy Smothers",
+    "actor": "",
+    "source": "The Smothers Brothers Comedy Hour",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Hey now!",
+    "character": "Hank Kingsley",
+    "actor": "",
+    "source": "The Larry Sanders Show",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Just one more thing …",
+    "character": "Columbo",
+    "actor": "",
+    "source": "Columbo",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "The truth is out there",
+    "character": "Fox Mulder",
+    "actor": "",
+    "source": "The X-Files",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Welcome to the O.C., bitch",
+    "character": "Luke",
+    "actor": "",
+    "source": "The O.C.",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Let’s be careful out there",
+    "character": "Sgt. Esterhaus",
+    "actor": "",
+    "source": "Hill Street Blues",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Schwing!",
+    "character": "Mike Myers and Dana Carvey as Wayne and Garth",
+    "actor": "",
+    "source": "Saturday Night Live",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Tell me what you don’t like about yourself",
+    "character": "Dr. McNamara and Dr. Troy",
+    "actor": "",
+    "source": "Nip/Tuck",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Who loves you, baby?",
+    "character": "Kojak",
+    "actor": "",
+    "source": "Kojak",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Say good night, Gracie",
+    "character": "George Burns",
+    "actor": "",
+    "source": "The Burns & Allen Show",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Elizabeth, I’m coming!",
+    "character": "Fred Sanford",
+    "actor": "",
+    "source": "Sanford and Son",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "What you see is what you get!",
+    "character": "Geraldine",
+    "actor": "",
+    "source": "The Flip Wilson Show",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "You rang?",
+    "character": "Lurch",
+    "actor": "",
+    "source": "The Addams Family",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Danger, Will Robinson",
+    "character": "Robot",
+    "actor": "",
+    "source": "Lost in Space",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "How YOU doin’?",
+    "character": "Joey Tribbiani",
+    "actor": "",
+    "source": "Friends",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "You look mahvelous!",
+    "character": "Billy Crystal as Fernando",
+    "actor": "",
+    "source": "Saturday Night Live",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Good night, and good luck",
+    "character": "Edward R. Murrow",
+    "actor": "",
+    "source": "See It Now",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Would you believe?",
+    "character": "Maxwell Smart",
+    "actor": "",
+    "source": "Get Smart",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Well, isn’t that special?",
+    "character": "Dana Carvey as the Church Lady",
+    "actor": "",
+    "source": "Saturday Night Live",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "You’ve got spunk …",
+    "character": "Lou Grant",
+    "actor": "",
+    "source": "The Mary Tyler Moore Show",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "How sweet it is!",
+    "character": "Jackie Gleason",
+    "actor": "",
+    "source": "The Jackie Gleason Show",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "De plane! De plane!",
+    "character": "Tattoo",
+    "actor": "",
+    "source": "Fantasy Island",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Jane, you ignorant slut",
+    "character": "Dan Aykroyd to Jane Curtin",
+    "actor": "",
+    "source": "Saturday Night Live",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Live long and prosper",
+    "character": "Spock",
+    "actor": "",
+    "source": "Star Trek",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Hey hey HEEY!",
+    "character": "Fat Albert",
+    "actor": "",
+    "source": "Fat Albert",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Book ’em, Danno",
+    "character": "Steve McGarrett",
+    "actor": "",
+    "source": "Hawaii Five-O",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Space, the final frontier …",
+    "character": "Capt. Kirk",
+    "actor": "",
+    "source": "Star Trek",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Dyn-o-mite",
+    "character": "J.J.",
+    "actor": "",
+    "source": "Good Times",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Aaay",
+    "character": "Fonzie",
+    "actor": "",
+    "source": "Happy Days",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Yabba dabba do!",
+    "character": "Fred Flintstone",
+    "actor": "",
+    "source": "The Flintstones",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "Baby, you’re the greatest",
+    "character": "Ralph Kramden",
+    "actor": "",
+    "source": "The Honeymooners",
+    "year": "",
+    "intent": "happiness"
+}{
+    "quote": "You’re fired!",
+    "character": "Donald Trump",
+    "actor": "",
+    "source": "The Apprentice",
+    "year": "",
+    "intent": "happiness"
+}
