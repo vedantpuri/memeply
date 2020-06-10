@@ -42,12 +42,13 @@ def post_utterrances(file , url , auth_token ):
     with open(file) as json_file:
         data = json.load(json_file)
         for d in data:
-            temp_dict = {}
-            temp_dict["text"] = d["utterance"]
-            temp_dict["intent"] = d["intent"]
-            temp_dict["entities"] = []
-            temp_dict["traits"] = []
-            payload.append(temp_dict)
+            if 1 < len(d["utterance"]) <=280:
+                temp_dict = {}
+                temp_dict["text"] = d["utterance"]
+                temp_dict["intent"] = 'intent_' + d["emotion"]
+                temp_dict["entities"] = []
+                temp_dict["traits"] = []
+                payload.append(temp_dict)
 
     for i in range(0,len(payload),200):
         response = requests.post(url, json=payload[i:i+200], headers=header)
