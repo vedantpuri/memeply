@@ -91,22 +91,27 @@ def display_data(data, limit=50):
     print_list(data[:limit])
 
 
-def unite_data(data, emotions, filter_noemo=True):
+def unite_data(data, emotions, suppress_noemo=True, no_emo_limit=300):
     """
     Map emotions to utterances
     :param data:            List of utterances
     :param emotions:        List of emotions
     :param filter_noemo:    Filter out no emotions
     """
-    logger.debug(f"Mapping emotions to utterances, Filtering: {filter_noemo}")
+    logger.debug(f"Mapping emotions to utterances, Filtering: {suppress_noemo}")
     united_data = []
+    no_emo_ctr = 0
     for i in range(len(data)):
         utt = data[i]
         # Remove weird right quotation marks
         utt = re.sub("(\u2018|\u2019)", "'", utt)
-        if filter_noemo:
+        if suppress_noemo:
             if emotions[i] != NO_EMOTION:
                 united_data += [(utt, emotions[i])]
+            else:
+                if no_emo_ctr < no_emo_limit:
+                    united_data += [(utt, emotions[i])]
+                    no_emo_ctr += 1
         else:
             united_data += [(utt, emotions[i])]
     logger.debug(f"Mapping complete. Total instances: {len(united_data)}")

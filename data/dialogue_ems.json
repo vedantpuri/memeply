@@ -4,6 +4,10 @@
     "emotion": "2"
   },
   {
+    "utterance": "I'll throw out the garbage .",
+    "emotion": "0"
+  },
+  {
     "utterance": "So Dick , how about getting some coffee for tonight ?",
     "emotion": "4"
   },
@@ -12,16 +16,52 @@
     "emotion": "2"
   },
   {
+    "utterance": "Come on , you can at least try a little , besides your cigarette .",
+    "emotion": "0"
+  },
+  {
     "utterance": "What ' s wrong with that ? Cigarette is the thing I go crazy for .",
     "emotion": "1"
+  },
+  {
+    "utterance": "Not for me , Dick .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Are things still going badly with your houseguest ?",
+    "emotion": "0"
   },
   {
     "utterance": "Getting worse . Now he ' s eating me out of house and home . I ' Ve tried talking to him but it all goes in one ear and out the other . He makes himself at home , which is fine . But what really gets me is that yesterday he walked into the living room in the raw and I had company over ! That was the last straw .",
     "emotion": "1"
   },
   {
+    "utterance": "Leo , I really think you ' re beating around the bush with this guy . I know he used to be your best friend in college , but I really think it ' s time to lay down the law .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "You ' re right . Everything is probably going to come to a head tonight . I ' ll keep you informed .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Would you mind waiting a while ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Well , how long will it be ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "I'm not sure . But I'll get a table ready as fast as I can .",
+    "emotion": "0"
+  },
+  {
     "utterance": "OK . We'll wait .",
     "emotion": "4"
+  },
+  {
+    "utterance": "Are you going to the annual party ? I can give you a ride if you need one .",
+    "emotion": "0"
   },
   {
     "utterance": "Thanks a lot . That's the favor I was going to ask you for .",
@@ -48,8 +88,48 @@
     "emotion": "2"
   },
   {
+    "utterance": "Oh , no , get off it . It wasn ' t such a killer class . You just have to get into it . Like they say , no pain , no gain .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "I am wiped out . Thank you .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Look , next time get yourself some comfy shoes . You ' re gonna come back again with me , aren ' t you ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Never ! But thank you for inviting me .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Come on . You ' ll feel better after we hit the showers .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Can I take your order now or do you still want to look at the menu ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Well , I want a fillet steak , medium , but my little girl doesn't care for steak . Could she have something else instead ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Certainly . How about spaghetti with clams and shrimps .",
+    "emotion": "0"
+  },
+  {
     "utterance": "Sounds delicious . OK . She'll try that .",
     "emotion": "4"
+  },
+  {
+    "utterance": "Can you manage chopsticks ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Why not ? See .",
+    "emotion": "0"
   },
   {
     "utterance": "Good mastery . How do you like our Chinese food ?",
@@ -64,6 +144,54 @@
     "emotion": "6"
   },
   {
+    "utterance": "According to some studies it may cause cancer .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Oh , don't let that worry you . If that were true , China wouldn't have such a large population .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "I just happen to have a question for you guys . Why do the Chinese cook the vegetables ? You see what I mean is that most vitamin are destroyed when heated .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "I don't know exactly . It's a tradition . Maybe it's for sanitary reasons .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "I'm exhausted .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Okay , let's go home .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Good evening . Welcome to Cherry's . Do you have a reservation ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "No , we don't .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "How many of you , please ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Six , including two kids .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "I'm afraid all the big tables are taken .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "What kind of food do you like ?",
+    "emotion": "0"
+  },
+  {
     "utterance": "I like Chinese food .",
     "emotion": "4"
   },
@@ -72,16 +200,84 @@
     "emotion": "6"
   },
   {
+    "utterance": "We have a lot of Chinese restaurants in America .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Would you like to take a look at the menu , sir ?",
+    "emotion": "0"
+  },
+  {
     "utterance": "Yes . Thank you .",
     "emotion": "4"
+  },
+  {
+    "utterance": "Would you care for a drink before you order ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "A glass of Qingdao beer .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Yes , sir . I'll bring it over . Have you decided what you'd like , sir ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Will you make some recommendation ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Can I help you sir , what do you need ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "I need a packet of cigarettes please .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Of course sir , no problem .",
+    "emotion": "0"
   },
   {
     "utterance": "Thanks .",
     "emotion": "4"
   },
   {
+    "utterance": "Could I have my bill , please ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Certainly , sir .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "I'm afraid there's been a mistake .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "I'm sorry , sir . What seems to be the trouble ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "I believe you have charged me twice for the same thing . Look , the figure of 6.5 dollar appears here , then again here .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "I'll just go and check it for you , sir .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "May I sit here ?",
+    "emotion": "0"
+  },
+  {
     "utterance": "By all means .",
     "emotion": "4"
+  },
+  {
+    "utterance": "Is everything to your satisfaction ?",
+    "emotion": "0"
   },
   {
     "utterance": "No , the steak was recommended , but it is not very fresh .",
@@ -104,6 +300,10 @@
     "emotion": "1"
   },
   {
+    "utterance": "I'm looking for a white purse as a gift . Could you show what you have in stock ?",
+    "emotion": "0"
+  },
+  {
     "utterance": "You are in luck . We just receive a shipment of several different styles of white purses .",
     "emotion": "4"
   },
@@ -120,44 +320,284 @@
     "emotion": "4"
   },
   {
+    "utterance": "Sure . Let me ring this up for you at the register . If you would like , this can be gift-wrapped for free . Just take it to the customer service department .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Dahua's Market . How can I help you ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Where is your store located ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "We are on Nanjing Road , next to the theatre .",
+    "emotion": "0"
+  },
+  {
     "utterance": "Right , I'll be right over .",
     "emotion": "4"
+  },
+  {
+    "utterance": "Farmer's Pet Store .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Can you please tell me where you are located ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Sure , we are off Singing Road , close to the bank .",
+    "emotion": "0"
   },
   {
     "utterance": "Thank you , I know where that is .",
     "emotion": "4"
   },
   {
+    "utterance": "May I help you find something , sir ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "I'm looking for an engagement ring for my girlfriend . I have an idea of what she likes , but I want to surprise her with something special , too .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "We have all shapes , sizes , qualities and price ranges , do you know about the four Cs of picking a diamond ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "I think so . Aren't the four Cs , cut , clarity , carat and color .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "You've got it . Tell me a little bit about what you might be wanted .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Well , my price range is a 5,000 dollars to 7,000 dollars , I'm looking for a marquise cut on the wide band .",
+    "emotion": "0"
+  },
+  {
     "utterance": "You have good taste . Let my show you what I have .",
     "emotion": "4"
+  },
+  {
+    "utterance": "Would you like a lift home ?",
+    "emotion": "0"
   },
   {
     "utterance": "That would be great . Thanks !",
     "emotion": "4"
   },
   {
+    "utterance": "Mike's Mechanics . Can I help you ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Yes , how do I get to your shop from Chilin ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Go straight up Zhongshan Road and you will see our sign on your right , after you pass the museum .",
+    "emotion": "0"
+  },
+  {
     "utterance": "Thank you very much .",
     "emotion": "4"
+  },
+  {
+    "utterance": "I think I going to need some iced water too . Is there an extra charge for that ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Yes , we charge 50 cents for water .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "That's fine . Could you give me some more napkins , too ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Sure . Do you need anything else ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Yes , I would also like some sweet and sour sauce and pepper .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "I'll put all that into the bag for you .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Do I owe you anything for the sauce , pepper and napkins ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "No , there is no charge for those .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "I'm looking for some blush . Do you still have some in peach rose ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Oh , yes , that is a beautiful color . It has been very popular blush this season . I have two left .",
+    "emotion": "0"
   },
   {
     "utterance": "Great , I'll take one .",
     "emotion": "4"
   },
   {
+    "utterance": "Have you heard about our special promotion this month ? If you purchase at least 18 dollar 50 cents in any Elizabeth Arden products , you will receive this black poke with a sample of lipstick , mascara and two shades of white shadow .",
+    "emotion": "0"
+  },
+  {
     "utterance": "Wow , that sounds like a bargain . I'm running low on facial moisturizer and toner . Could you ring those up for me too along with the blush ?",
     "emotion": "4"
+  },
+  {
+    "utterance": "I'd be glad to . Do you need anything else ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Oh , I almost forgot . It's my mum's birthday Saturday . I need to get her some more Chanel . Could you get me the 1.7 ounce bottle of Chanel cologne ?",
+    "emotion": "0"
   },
   {
     "utterance": "That would be my pleasure . I'll wrap the perfume up in the gift box for you too .",
     "emotion": "4"
   },
   {
+    "utterance": "Golden Taxi cabs , how may I help you ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Can you send a cab to pick me up ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Sure , where are you ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "I'm on the corner of the Fifth and Mane .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "OK , I'm sorry it took so long .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "I understand .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "The phone has been ringing off the hook today .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Some days are just like that .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Hello , I need to get a cab .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "There is about a 15 - minute wait .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "That's fine .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "OK . Give me your address .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Is Tom available please ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "He's on the other line , can you hold for a minute ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Sure .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "He'll be right with you .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Hi Bill , it ' s Jane .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Jane , I ' m on the other line , can you hang on for a second ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Sure .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "OK , I ' ll be right back .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Is Tom here ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Speaking .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Looks like dinner's ready .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Just about .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "May I try on this dress ?",
+    "emotion": "0"
+  },
+  {
     "utterance": "By all means . (= Of course . )",
     "emotion": "4"
   },
   {
+    "utterance": "I made my little brother cry .",
+    "emotion": "0"
+  },
+  {
     "utterance": "Shame on you !",
     "emotion": "1"
+  },
+  {
+    "utterance": "Can I have the check please ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Right away , sir .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Is this amount correct ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Yes , sir , it is .",
+    "emotion": "0"
   },
   {
     "utterance": "Thank you , the service was good",
@@ -168,6 +608,30 @@
     "emotion": "4"
   },
   {
+    "utterance": "Are you through with your meal ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Yes , we are . Could we have the check please ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Here you go . I can take care of it here when you are already .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Do you accept checks ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "No , I'm sorry we don't . We accept credit cards and cash .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Well , I don't have any cash with me , I'll have to put it on a credit .",
+    "emotion": "0"
+  },
+  {
     "utterance": "Thank you , I'll be right back . Do you need any to go boxes ? I'd be glad to bring you some when I come back .",
     "emotion": "4"
   },
@@ -176,16 +640,76 @@
     "emotion": "4"
   },
   {
+    "utterance": "I'm looking for some black pumps to go with my evening gown . Could you show me what you have ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Sure , we have several different styles you may choose . How high of a heel do you want ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Not to high , maybe an inch or an inch in the half would be the best .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "In that case , I might have just the pair for you . Look at these , they were made in Italy , the leather is very soft , so your toes will not get pinched . You can tell just by looking at it that it was superbly made .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Those are beautiful . Do you have any in a size six ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Yes , we do , we also have this same style in dark blue and red .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "No , thank you . I'm just looking for a black pair .",
+    "emotion": "0"
+  },
+  {
     "utterance": "Let me go to the back and get them . I'll be right back .",
     "emotion": "4"
+  },
+  {
+    "utterance": "Are you OK ?",
+    "emotion": "0"
   },
   {
     "utterance": "I'm fine . I'm just so touched by the sad story .",
     "emotion": "5"
   },
   {
+    "utterance": "So I can say now that you must have enjoyed the opera . Which scene is your favorite ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "I love them all . But if I had to name one as the best , I would say it's the ending .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "What's it about ? You know , I couldn't help falling asleep .",
+    "emotion": "0"
+  },
+  {
     "utterance": "Did you ? I didn't notice that . But still you should know it , for you have seen it with Laura before .",
     "emotion": "6"
+  },
+  {
+    "utterance": "I guess I've done the same thing last time I was here with her , too . I mean falling asleep . For me , this one is not that attractive .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Then I doubt if you like operas at all .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Yes . I like Carmen very much . But I don't mind if you want to tell me about this one .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "OK , then . The man was old and he was visiting his wife's grave , with a rose in his hand . When he got there , he saw someone already put a rose on her grave .",
+    "emotion": "0"
   },
   {
     "utterance": "Very impressive . And I do like the leading actress who has an amazing voice .",
@@ -212,6 +736,38 @@
     "emotion": "4"
   },
   {
+    "utterance": "Did anyone call ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Just Mr . White .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "What did he want ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "He wouldn't say over the phone .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Could I have the check , please ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Okay . I'll just be a minute .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Any phone calls for me while I was out ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Yes , your wife and your dentist called .",
+    "emotion": "0"
+  },
+  {
     "utterance": "Thank you .",
     "emotion": "4"
   },
@@ -220,8 +776,60 @@
     "emotion": "4"
   },
   {
+    "utterance": "Hello , may I help you ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Well , I'm looking for some winter clothes . And I notice you have pre-season sale on all your winter apparel .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Yes , everything is 25 % off .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Do you have any skirt that will go with this sweater ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Sure , we have both skirts and slacks that will go well with the sweater . I especially like this flowery skirt . It's very much in style this year .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "I don't think that shade of green will go with my complexion . Do you have any of those skirts in black or tan ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Look on the rack to your right .",
+    "emotion": "0"
+  },
+  {
     "utterance": "Oh , yes . Just show me where the fitting rooms are now . I can't wait to try this on .",
     "emotion": "4"
+  },
+  {
+    "utterance": "May I help you ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Give me six-piece chicken nuggets , a large fries , and a large coke .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "You will need to wait a few minutes for fries . They're still in the fryer .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "That's fine .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Your total comes to 7 dollars .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Here's 20 .",
+    "emotion": "0"
   },
   {
     "utterance": "Thank you . Your cash back is 13 dollars . Pull into a parking states , and we'll bring you your fries in two minutes .",
@@ -232,48 +840,508 @@
     "emotion": "4"
   },
   {
+    "utterance": "I'm sorry . Is that bicycle yours ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Yes , it is . What about it ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "I backed into it while I was trying to get into the parking lot .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "I see .",
+    "emotion": "0"
+  },
+  {
     "utterance": "I'm really sorry . I'll face the music .",
     "emotion": "5"
+  },
+  {
+    "utterance": "Where did you hit it ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Right here . See the scratch ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Oh , Yes , I see it now .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "How are we going to get there ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Let's take a cab .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Hi , sorry to have kept you waiting .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "That's all right .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "How are you ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Fine , and you ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Andrew's Hair Salon , this is Andrew .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Andrew , this is Linda Chen .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Hi Linda , what can I do for you ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "I need to set up an appointment to get my hair fixed .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "For what day ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Tuesday morning .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "I'm getting a tattoo tomorrow .",
+    "emotion": "0"
   },
   {
     "utterance": "Are you nuts ?",
     "emotion": "6"
   },
   {
+    "utterance": "My mother bought me a new video game .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "What's it like ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Well , the hero is a Super Warrior . He has to fight the bad guys to find the treasure .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Who are the bad guys ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "There are a lot ! Two really bad ones are Giant Monster and Human Spider .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Wow ! Where's the treasure ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "It's in a dungeon , under a castle .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "How do you find it ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "It's not easy to find . Anyway , you can come to my home after school today and try .",
+    "emotion": "0"
+  },
+  {
     "utterance": "Great !",
     "emotion": "4"
+  },
+  {
+    "utterance": "I played the video game at Mike's home yesterday .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "What's it like ?",
+    "emotion": "0"
   },
   {
     "utterance": "It's really fantastic . The hero , Super Warrior , is so brave that he can defeat any enemies he meets . He runs through tunnels , swims under water , and climbs over bridges . It's really exciting !",
     "emotion": "4"
   },
   {
+    "utterance": "And then ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "I borrowed it from Mike yesterday . Why not have a try ?",
+    "emotion": "0"
+  },
+  {
     "utterance": "That's neat !",
     "emotion": "4"
+  },
+  {
+    "utterance": "Mrs . Sue ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Yes ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Mr . Brown will have to call you back in a little while .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "All right . But tell him I will only be here until four o'clock .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "I lost my wallet .",
+    "emotion": "0"
   },
   {
     "utterance": "I'm sorry , that's bad luck .",
     "emotion": "5"
   },
   {
+    "utterance": "Mr . Zhang , are you still there ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Yes .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Can she call you back ? She is about to start a meeting .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "That will be fine .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "I'm going to the pub tonight .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Don't get drunk .",
+    "emotion": "0"
+  },
+  {
     "utterance": "I'm sorry I'm late .",
     "emotion": "5"
+  },
+  {
+    "utterance": "Better late than never .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Hi ! This is John Li , is my car fixed yet ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Let me run and check .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Hi ! This is Tome Smith .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Yes , Mr . Smith ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Is my VCR ready ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "No , it will be another hour .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "This skirt is too tight . I would like to return it please . Do I need to go to the customer's service desk ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "I can help you with that . Do you still have your receipt ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "No , I receive this as a birthday present , but the price tag is still on the skirt though . Will that be OK ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Oh , yes , that will help me a lot .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Do you have any more skirts in this style ? I would like to find a size larger .",
+    "emotion": "0"
   },
   {
     "utterance": "I'm sorry . I think we're out of this skirt in this color . Do you want me to call another one of our store to see if it's available there ?",
     "emotion": "5"
   },
   {
+    "utterance": "No , that's all right . I'll just look for something else .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Well , your refund total is 50 dollars .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Nani Book Store . How can I help you ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Do you have the ' The man and the Sea ' by Ernest Hemingway ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Yes , we have one copy left .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Can you hold it for me ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Would you ring these up for me here ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "I would be happy to . Did you find everything you needed ?",
+    "emotion": "0"
+  },
+  {
     "utterance": "Yes , I did , thanks .",
     "emotion": "4"
+  },
+  {
+    "utterance": "The total is 200 dollars . Would you like to put that on Sears card ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "No , I'll pay for it in cash .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Benter's Books .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Yes , I need to order a large number of Webster's dictionaries .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "We have several hundred in stock .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Is there a discount for buying in large quantity ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "I'm a little rushed . Is there any quicker way to get there ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Yeah , of course . You can take a taxi .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "How much will that run me ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "It depends on traffic and distance , but it is reasonable .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Do the drivers speak English ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Some are better than others . But , you shouldn't have a problem .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Are they safe ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "For the most part , yes . If you don't feel comfortable with it , then it is best not to take one at night .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Excuse me.Could you please tell me where the train station is ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "It's two blocks down the road .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Diana's Flowers , Diana Lin's office , may I help you ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Is Diana in ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "No , she's out for lunch . May I take a message ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Yes , please ask her to call John Smith .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Ok , I'll make sure she gets the message .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "What's for lunch ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Pork chops .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Could you have a taxi pick me up and take me to the airport before 1 p . m . ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "What's your address , sir ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "I live at 323 Park Street .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Ok , someone will be there by 12:15 .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "What are your rates ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "It's 2 dollars initially and 35 cents for each quarter mile .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "I have four very large suitcases . Will those fit in the taxi ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "No , I'll send a larger vehicle to pick you up .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Do you think you can fix my computer ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "I'll give it a try .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Ah , Oh ! Are you hurt ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "I don't think so . I'm just shaken up a little .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Maybe I'd better call an ambulance .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "No , don't bother . I think I'm OK .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Are you sure ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Yes , it's OK .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Taxi !",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Where would you like to go ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Please rush me to the railway station",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Get in and close the door .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Can you speed up a bit ?",
+    "emotion": "0"
   },
   {
     "utterance": "Sorry . The road is too crowded .",
     "emotion": "5"
   },
   {
+    "utterance": "But I have no time to lose .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "But I can't help it .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Can you drop me off here ?",
+    "emotion": "0"
+  },
+  {
     "utterance": "Sorry . We mustn't stop here .",
     "emotion": "5"
+  },
+  {
+    "utterance": "Hello , is Sue there ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Who ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Sue John .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "You must have the wrong number .",
+    "emotion": "0"
   },
   {
     "utterance": "Oh , I'm sorry .",
@@ -288,24 +1356,156 @@
     "emotion": "4"
   },
   {
-    "utterance": "Oh , I'm sorry .",
-    "emotion": "5"
+    "utterance": "May I please speak to Robert ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "There is no one here by that name .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Is this 2517758 ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "No , this is 2517759 .",
+    "emotion": "0"
   },
   {
     "utterance": "Oh , I'm sorry .",
     "emotion": "5"
+  },
+  {
+    "utterance": "That's all right .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Is Tom in ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Wrong number .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Isn't this Li's residence ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "No , it is not .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Oh , I'm sorry .",
+    "emotion": "5"
+  },
+  {
+    "utterance": "Let's eat out .",
+    "emotion": "0"
   },
   {
     "utterance": "Good idea .",
     "emotion": "4"
   },
   {
+    "utterance": "May we see the wine list please ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Sure . Our special wine today is a 1989 Chardonnay .",
+    "emotion": "0"
+  },
+  {
     "utterance": "That sounds pretty good ! How much is it ?",
     "emotion": "4"
   },
   {
+    "utterance": "It's $ 4.25 cents by the glass . The whole bottle is $ 22.5 .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "I'd like a bottle please .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "I'll need to see your ID please .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Here you go .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Sorry about the inconvenience , you look so young . I had make sure you are over 21 years old .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Help ! Help !",
+    "emotion": "0"
+  },
+  {
+    "utterance": "What's the matter ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Hello , is John in ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "No , can I take a message ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "No , I'll call back later .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "All right .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "That's two for me and one for you .",
+    "emotion": "0"
+  },
+  {
     "utterance": "That's not fair !",
     "emotion": "1"
+  },
+  {
+    "utterance": "May I please speak to Tom ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Tom has gone to lunch .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "I'll just try him again .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Do you want me to have him give you a call ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "No , but what time do you expect him back ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "He should be back in about forty minutes .",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Hello , is John in ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "No , he's not . May I take a message ?",
+    "emotion": "0"
+  },
+  {
+    "utterance": "Yes , would you leave him a message to call me ?",
+    "emotion": "0"
   },
   {
     "utterance": "Sorry . I didn't mean to .",
