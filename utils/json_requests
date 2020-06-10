@@ -3,8 +3,10 @@ import logging
 import json
 import requests
 import os
+import time
 from os.path import join, dirname
 from dotenv import load_dotenv
+
 
 """
 Running command:
@@ -16,11 +18,11 @@ def post_intent(intents: str, url:str , auth_token: str)-> None:
     :param intents: A list of all intents to be added to the app
     :return:
     """
-    logger.debug(f"******Add intents to wit app********")
+    logger.debug(f"****** Add intents to wit app ********")
 
     header = {'Authorization': 'Bearer ' + auth_token, 'content-type': 'application/json'}
 
-    for i,intent in enumerate(intents):
+    for i, intent in enumerate(intents):
         data = {"name": intent}
         response = requests.post(url, json=data, headers=header)
         logger.debug(f"Response for intent {i} : {response.json()}")
@@ -32,7 +34,7 @@ def post_utterrances(file , url , auth_token ):
     :param json_file: File name from folder data to post utterances for training
     :return:
     """
-    logger.debug(f" ******** Training for the utterrances *********")
+    logger.debug(f"******** Training for the utterrances *********")
 
     payload  = []
     header = {'Authorization': 'Bearer ' + auth_token, 'content-type': 'application/json'}
@@ -42,15 +44,17 @@ def post_utterrances(file , url , auth_token ):
         for d in data:
             temp_dict = {}
             temp_dict["text"] = d["utterance"]
-            temp["intent"] = d["intent"]
-            temp["entities"] = []
-            temp["traits"] = []
+            temp_dict["intent"] = d["intent"]
+            temp_dict["entities"] = []
+            temp_dict["traits"] = []
             payload.append(temp_dict)
 
-    response = requests.post(url, json=data, headers=header)
-    logger.debug(f"Response for training:\n {response.json()}")
+    for i in range(0,len(payload),200):
+        response = requests.post(url, json=payload[i:i+200], headers=header)
+        logger.debug(f"Response for training:\n {response.json()}")
+        time.sleep(70)
 
-    logger.debug(f"*********Training complete**********")
+    logger.debug(f"********* Training complete **********")
 
 
 
@@ -72,11 +76,11 @@ if __name__=='__main__':
     logger.setLevel(logging.DEBUG)
 
     #Read from stdin
-    json_file,intents = sys.argv[1], sys.argv[2:]
+    json_file, intents = sys.argv[1], sys.argv[2:]
 
 
     if intents:
         post_intent(intents, intents_url, auth_token)
 
     if json_file:
-        post_utterrances(json_file, utterance_url , auth_token)
+        post_utterrances(json_file, utterance_url, auth_token)
