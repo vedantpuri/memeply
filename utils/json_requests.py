@@ -19,7 +19,7 @@ def post_intent(intents: str, url: str, auth_token: str) -> None:
     :param intents: A list of all intents to be added to the app
     :return:
     """
-    logger.debug(f"****** Add intents to wit app ********")
+    logger.debug("****** Add intents to wit app ********")
 
     header = {
         "Authorization": "Bearer " + auth_token,
@@ -37,7 +37,7 @@ def post_utterrances(file, url, auth_token):
     :param json_file: File name from folder data to post utterances for training
     :return:
     """
-    logger.debug(f"******** Training for the utterrances *********")
+    logger.debug("******** Training for the utterrances *********")
 
     payload = []
     header = {
@@ -57,11 +57,11 @@ def post_utterrances(file, url, auth_token):
                 payload.append(temp_dict)
 
     for i in range(0, len(payload), 200):
-        response = requests.post(url, json=payload[i : i + 200], headers=header)
+        response = requests.post(url, json=payload[i: i + 200], headers=header)
         logger.debug(f"Response for training:\n {response.json()}")
         time.sleep(70)
 
-    logger.debug(f"********* Training complete **********")
+    logger.debug("********* Training complete **********")
 
 
 if __name__ == "__main__":
