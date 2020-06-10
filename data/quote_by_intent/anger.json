@@ -1,0 +1,253 @@
+{
+    "quote": "Frankly, my dear, I don't give a damn.",
+    "character": "Rhett Butler",
+    "actor": "Clark Gable",
+    "source": "Gone with the Wind",
+    "year": "1939",
+    "intent": "anger"
+}{
+    "quote": "Toto, I've a feeling we're not in Kansas anymore.",
+    "character": "Dorothy Gale",
+    "actor": "Judy Garland",
+    "source": "The Wizard of Oz",
+    "year": "1939",
+    "intent": "anger"
+}{
+    "quote": "You talkin' to me?",
+    "character": "Travis Bickle",
+    "actor": "Robert De Niro",
+    "source": "Taxi Driver",
+    "year": "1976",
+    "intent": "anger"
+}{
+    "quote": "They call me Mister Tibbs!",
+    "character": "Virgil Tibbs",
+    "actor": "Sidney Poitier",
+    "source": "In the Heat of the Night",
+    "year": "1967",
+    "intent": "anger"
+}{
+    "quote": "I'm as mad as hell, and I'm not going to take this anymore!",
+    "character": "Howard Beale",
+    "actor": "Peter Finch",
+    "source": "Network",
+    "year": "1976",
+    "intent": "anger"
+}{
+    "quote": "Bond. James Bond.",
+    "character": "James Bond",
+    "actor": "Sean Connery",
+    "source": "Dr. No",
+    "year": "1962",
+    "intent": "anger"
+}{
+    "quote": "Show me the money!",
+    "character": "Rod Tidwell",
+    "actor": "Cuba Gooding Jr.",
+    "source": "Jerry Maguire",
+    "year": "1996",
+    "intent": "anger"
+}{
+    "quote": "I want to be alone.",
+    "character": "Grusinskaya",
+    "actor": "Greta Garbo",
+    "source": "Grand Hotel",
+    "year": "1932",
+    "intent": "anger"
+}{
+    "quote": "I'll have what she's having.",
+    "character": "Customer",
+    "actor": "Estelle Reiner",
+    "source": "When Harry Met Sally...",
+    "year": "1989",
+    "intent": "anger"
+}{
+    "quote": "You know how to whistle, don't you, Steve? You just put your lips together and blow.",
+    "character": "Marie \"Slim\" Browning",
+    "actor": "Lauren Bacall",
+    "source": "To Have and Have Not",
+    "year": "1944",
+    "intent": "anger"
+}{
+    "quote": "I'll be back.",
+    "character": "The Terminator",
+    "actor": "Arnold Schwarzenegger",
+    "source": "The Terminator",
+    "year": "1984",
+    "intent": "anger"
+}{
+    "quote": "Today, I consider myself the luckiest man on the face of the Earth.",
+    "character": "Lou Gehrig",
+    "actor": "Gary Cooper",
+    "source": "The Pride of the Yankees",
+    "year": "1942",
+    "intent": "anger"
+}{
+    "quote": "You had me at 'hello.'",
+    "character": "Dorothy Boyd",
+    "actor": "Renée Zellweger",
+    "source": "Jerry Maguire",
+    "year": "1996",
+    "intent": "anger"
+}{
+    "quote": "Mrs. Robinson, you're trying to seduce me. Aren't you?",
+    "character": "Benjamin Braddock",
+    "actor": "Dustin Hoffman",
+    "source": "The Graduate",
+    "year": "1967",
+    "intent": "anger"
+}{
+    "quote": "Gentlemen, you can't fight in here! This is the War Room!",
+    "character": "President Merkin Muffley",
+    "actor": "Peter Sellers",
+    "source": "Dr. Strangelove",
+    "year": "1964",
+    "intent": "anger"
+}{
+    "quote": "Wait a minute, wait a minute. You ain't heard nothin' yet!",
+    "character": "Jakie Rabinowitz/Jack Robin",
+    "actor": "Al Jolson",
+    "source": "The Jazz Singer",
+    "year": "1927",
+    "intent": "anger"
+}{
+    "quote": "I have always depended on the kindness of strangers.",
+    "character": "Blanche DuBois",
+    "actor": "Vivien Leigh",
+    "source": "A Streetcar Named Desire",
+    "year": "1951",
+    "intent": "anger"
+}{
+    "quote": "Toga! Toga!",
+    "character": "John \"Bluto\" Blutarsky",
+    "actor": "John Belushi",
+    "source": "National Lampoon's Animal House",
+    "year": "1978",
+    "intent": "anger"
+}{
+    "quote": "Listen to me, mister. You're my knight in shining armor. Don't you forget it. You're going to get back on that horse, and I'm going to be right behind you, holding on tight, and away we're gonna go, go, go!",
+    "character": "Ethel Thayer",
+    "actor": "Katharine Hepburn",
+    "source": "On Golden Pond",
+    "year": "1981",
+    "intent": "anger"
+}{
+    "quote": "Who's on first.",
+    "character": "Dexter",
+    "actor": "Bud Abbott",
+    "source": "The Naughty Nineties",
+    "year": "1945",
+    "intent": "anger"
+}{
+    "quote": "How hurt you want him?",
+    "character": "",
+    "actor": "",
+    "source": "Preacher",
+    "year": "",
+    "intent": "anger"
+}{
+    "quote": "Do you have any idea who you're talking to?",
+    "character": "",
+    "actor": "",
+    "source": "The Walking Dead",
+    "year": "",
+    "intent": "anger"
+}{
+    "quote": "Friends don't lie.",
+    "character": "",
+    "actor": "",
+    "source": "Stranger Things",
+    "year": "",
+    "intent": "anger"
+}{
+    "quote": "You have failed this city!",
+    "character": "",
+    "actor": "",
+    "source": "Arrow",
+    "year": "",
+    "intent": "anger"
+}{
+    "quote": "Everybody lies.",
+    "character": "",
+    "actor": "",
+    "source": "House",
+    "year": "",
+    "intent": "anger"
+}{
+    "quote": "They should've never given us uniforms if they didn’t want us to be an army.",
+    "character": "",
+    "actor": "",
+    "source": "The Handmaid's Tale",
+    "year": "",
+    "intent": "anger"
+}{
+    "quote": "Oh boy.",
+    "character": "",
+    "actor": "",
+    "source": "Quantum Leap",
+    "year": "",
+    "intent": "anger"
+}{
+    "quote": "Oh, my nose!",
+    "character": "Marcia Brady",
+    "actor": "",
+    "source": "The Brady Bunch",
+    "year": "",
+    "intent": "anger"
+}{
+    "quote": "Bam!",
+    "character": "Emeril Lagasse",
+    "actor": "",
+    "source": "Emeril Live",
+    "year": "",
+    "intent": "anger"
+}{
+    "quote": "Don’t make me angry …",
+    "character": "David Banner",
+    "actor": "",
+    "source": "The Incredible Hulk",
+    "year": "",
+    "intent": "anger"
+}{
+    "quote": "Hey HEY hey!",
+    "character": "Dwayne Nelson",
+    "actor": "",
+    "source": "What’s Happening!!",
+    "year": "",
+    "intent": "anger"
+}{
+    "quote": "Never assume …",
+    "character": "Felix Unger",
+    "actor": "",
+    "source": "The Odd Couple",
+    "year": "",
+    "intent": "anger"
+}{
+    "quote": "Two thumbs up",
+    "character": "Siskel & Ebert",
+    "actor": "",
+    "source": "Siskel & Ebert",
+    "year": "",
+    "intent": "anger"
+}{
+    "quote": "And that’s the way it is",
+    "character": "Walter Cronkite",
+    "actor": "",
+    "source": "CBS Evening News",
+    "year": "",
+    "intent": "anger"
+}{
+    "quote": "Come on down!",
+    "character": "Johnny Olson",
+    "actor": "",
+    "source": "The Price is Right",
+    "year": "",
+    "intent": "anger"
+}{
+    "quote": "Whatchoo talkin’ ’bout, Willis?",
+    "character": "Arnold Drummond",
+    "actor": "",
+    "source": "Diff’rent Strokes",
+    "year": "",
+    "intent": "anger"
+}
