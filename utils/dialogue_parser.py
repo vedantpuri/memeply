@@ -1,7 +1,6 @@
 import re
 import sys
 import json
-import pickle
 import random
 import logging
 from nltk.corpus import stopwords
