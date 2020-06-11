@@ -40,7 +40,7 @@ client = Wit(AUTH_TOKEN)
 
 def get_JSON():
     """
-	Load the quotes from the JSON file
+    Load the quotes from the JSON file
     :return:    Quotes JSON data file
     """
     with open(str(os.getcwd()) + "/" + JSON_FILE) as f:
@@ -50,10 +50,10 @@ def get_JSON():
 
 def get_intent(sentence, limit):
     """
-	Use Wit AI to get a pretrained intent for a sentence
+    Use Wit AI to get a pretrained intent for a sentence
     :param sentence:    Sentence for which the intent is to be found
     :param limit:       Number of intents
-    :return:            Intent object 
+    :return:            Intent object
     """
     res = client.message(sentence, n=8)
     intents = res["intents"]
@@ -64,7 +64,7 @@ def get_intent(sentence, limit):
 def store_intents(data):
     """
     Write intents into different JSON files
-    :param data:        Intent object 
+    :param data:        Intent object
     :return:            None
     """
     mainObj = data["quotes"]
