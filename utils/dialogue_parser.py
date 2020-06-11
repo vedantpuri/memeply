@@ -1,7 +1,6 @@
 import re
 import sys
 import json
-import pickle
 import random
 import logging
 from nltk.corpus import stopwords
@@ -125,7 +124,7 @@ def dump2json(data, json_file):
         dump_data += [{"utterance": element[0], "emotion": element[1]}]
     with open(json_file, "w") as fout:
         json.dump(dump_data, fout, indent=2)
-    logger.debug(f"Dumping complete")
+    logger.debug("Dumping complete")
 
 
 # ----- Main execution
