@@ -121,7 +121,7 @@
         },
         {
             "quote": "Made it, Ma! Top of the world!",
-            "character": "Arthur \"Cody\" Jarrett",
+            "character": "Arthur 'Cody' Jarrett",
             "actor": "James Cagney",
             "source": "White Heat",
             "year": "1949"
@@ -184,7 +184,7 @@
         },
         {
             "quote": "I'm walkin' here! I'm walkin' here!",
-            "character": "\"Ratso\" Rizzo",
+            "character": "'Ratso' Rizzo",
             "actor": "Dustin Hoffman",
             "source": "Midnight Cowboy",
             "year": "1969"
@@ -233,7 +233,7 @@
         },
         {
             "quote": "You know how to whistle, don't you, Steve? You just put your lips together and blow.",
-            "character": "Marie \"Slim\" Browning",
+            "character": "Marie 'Slim' Browning",
             "actor": "Lauren Bacall",
             "source": "To Have and Have Not",
             "year": "1944"
@@ -547,7 +547,7 @@
             "year": "1968"
         },
         {
-            "quote": "triker: \"Surely you can't be serious.\" Rumack: \"I am serious … and don't call me Shirley.",
+            "quote": "triker: 'Surely you can't be serious.' Rumack: 'I am serious … and don't call me Shirley.",
             "character": "Ted Striker and Dr. Rumack",
             "actor": "Robert Hays and Leslie Nielsen",
             "source": "Airplane!",
@@ -569,7 +569,7 @@
         },
         {
             "quote": "Toga! Toga!",
-            "character": "John \"Bluto\" Blutarsky",
+            "character": "John 'Bluto' Blutarsky",
             "actor": "John Belushi",
             "source": "National Lampoon's Animal House",
             "year": "1978"
@@ -1657,6 +1657,874 @@
             "character": "Ed McMahon",
             "actor": "",
             "source": "The Tonight Show",
+            "year": ""
+        },
+        {
+            "quote": "Jim is gone. He's gone. I miss him so much. Ooooh I cry myself to sleep, Jim! False. I do not miss him.",
+            "character": "Dwight Schrute",
+            "actor": "",
+            "source": "Office",
+            "year": ""
+        },
+        {
+            "quote": "Would I ever leave this company? Look, I’m all about loyalty. In fact, I feel like part of what I’m being paid for here is my loyalty. But if there were somewhere else that valued loyalty more highly… I’m going wherever they value loyalty the most.",
+            "character": "Dwight Schrute",
+            "actor": "",
+            "source": "Office",
+            "year": ""
+        },
+        {
+            "quote": "I am fast. To give you a reference point I am somewhere between a snake and a mongoose… And a panther.",
+            "character": "Dwight Schrute",
+            "actor": "",
+            "source": "Office",
+            "year": ""
+        },
+        {
+            "quote": "Security in this office park is a joke. Last year I came to work with my spud-gun in a duffel bag. I sat at my desk all day with a rifle that shoots potatoes at 60 pounds per square inch. Can you imagine if I was deranged?",
+            "character": "Dwight Schrute",
+            "actor": "",
+            "source": "Office",
+            "year": ""
+        },
+        {
+            "quote": "I grew up on a farm. I have seen animals having sex in every position imaginable. Goat on chicken. Chicken on goat. Couple of chickens doing a goat, couple of pigs watching.",
+            "character": "Dwight Schrute",
+            "actor": "",
+            "source": "Office",
+            "year": ""
+        },
+        {
+            "quote": "Through concentration, I can raise and lower my cholesterol at will.",
+            "character": "Dwight Schrute",
+            "actor": "",
+            "source": "Office",
+            "year": ""
+        },
+        {
+            "quote": "Right now, this is just a job. If I advance any higher in this company, then this would be my career. And, well, if this were my career? I'd have to throw myself in front of a train.",
+            "character": "Jim Halpert",
+            "actor": "",
+            "source": "Office",
+            "year": ""
+        },
+        {
+            "quote": "Am I going to tell them? No, I am not going to tell them. I don't see the point of that. As a doctor, you would not tell a patient if they had cancer.",
+            "character": "Michael Scott",
+            "actor": "",
+            "source": "Office",
+            "year": ""
+        },
+        {
+            "quote": "Wikipedia Is The Best Thing Ever. Anyone In The World Can Write Anything They Want About Any Subject, So You Know You Are Getting The Best Possible Information.",
+            "character": "Michael Scott",
+            "actor": "",
+            "source": "Office",
+            "year": ""
+        },
+        {
+            "quote": "Saddle Shoes With Denim? I Will Literally Call Protective Services.",
+            "character": "Oscar Martinez",
+            "actor": "",
+            "source": "Office",
+            "year": ""
+        },
+        {
+            "quote": "Hate To See You Leave But Love To Watch You Go. ‘Cause Of Your Butt.",
+            "character": "Michael Scott",
+            "actor": "",
+            "source": "Office",
+            "year": ""
+        },
+        {
+            "quote": "I Wonder What People Like About Me? Probably My Jugs.",
+            "character": "Phyllis Vance",
+            "actor": "",
+            "source": "Office",
+            "year": ""
+        },
+        {
+            "quote": "Right Now This Is Just A Job. If I Advance Any Higher In This Company, Then This Would Be My Career. And Well, If This Were My Career I’d Have To Throw Myself In Front Of A Train.",
+            "character": "Jim Halpert",
+            "actor": "",
+            "source": "Office",
+            "year": ""
+        },
+        {
+            "quote": "Bears. Beets. Battlestar Galactica.",
+            "character": "Jim Halpert",
+            "actor": "",
+            "source": "Office",
+            "year": ""
+        },
+        {
+            "quote": "Through Concentration, I Can Raise And Lower My Cholesterol At Will.",
+            "character": "Dwight Schrute",
+            "actor": "",
+            "source": "Office",
+            "year": ""
+        },
+        {
+            "quote": "I Love Inside Jokes. Love To Be A Part Of One Someday.",
+            "character": "Michael Scott",
+            "actor": "",
+            "source": "Office",
+            "year": ""
+        },
+        {
+            "quote": "I Wish There Was A Way To Know You’re In The Good Old Days, Before You’ve Actually Left Them.",
+            "character": "Andy Bernard",
+            "actor": "",
+            "source": "Office",
+            "year": ""
+        },
+        {
+            "quote": "Sometimes I’ll Start A Sentence And I Don’t Even Know Where It’s Going. I Just Hope I Find It Along The Way.",
+            "character": "Michael Scott",
+            "actor": "",
+            "source": "Office",
+            "year": ""
+        },
+        {
+            "quote": "How Would I Describe Myself? Three Words. Hard-working. Alpha Male. Jackhammer. Merciless. Insatiable.",
+            "character": "Dwight Schrute",
+            "actor": "",
+            "source": "Office",
+            "year": ""
+        },
+        {
+            "quote": "It’s Never Too Early For Ice-Cream, Jim.",
+            "character": "Michael Scott",
+            "actor": "",
+            "source": "Office",
+            "year": ""
+        },
+        {
+            "quote": "Why Are All These People Here? There Are Too Many People On This Earth. We Need A New Plague.",
+            "character": "Dwight Schrute",
+            "actor": "",
+            "source": "Office",
+            "year": ""
+        },
+        {
+            "quote": "Andy Bernard Does Not Lose Contests. He Wins Them… Or He Quits Them Because They Are Unfair.",
+            "character": "Andy Bernard",
+            "actor": "",
+            "source": "Office",
+            "year": ""
+        },
+        {
+            "quote": "You Couldn’t Handle My Undivided Attention.",
+            "character": "Dwight Schrute",
+            "actor": "",
+            "source": "Office",
+            "year": ""
+        },
+        {
+            "quote": "That’s What She Said!",
+            "character": "Michael Scott",
+            "actor": "",
+            "source": "Office",
+            "year": ""
+        },
+        {
+            "quote": "Welcome to the Hotel Hell. Check-in time in now, check-out time is never.",
+            "character": "Dwight Schrute",
+            "actor": "",
+            "source": "Office",
+            "year": ""
+        },
+        {
+            "quote": "I'm the owner.. the co-owner. With Satan!",
+            "character": "Dwight Schrute",
+            "actor": "",
+            "source": "Office",
+            "year": ""
+        },
+        {
+            "quote": "I'm not gaining anything from this seminar. I'm a professional woman. The head of accounting. I'm in the healthiest relationship of my life. I just think it's insulting that Jan thinks we need this. And, apparently, judging from her outfit, Jan aspires to be a whore.",
+            "character": "Angela Martin",
+            "actor": "",
+            "source": "Office",
+            "year": ""
+        },
+        {
+            "quote": "Poop is raining from the ceilings. Poop!",
+            "character": "Angela Martin",
+            "actor": "",
+            "source": "Office",
+            "year": ""
+        },
+        {
+            "quote": "Stanley yelled at me today. That was one of the most frightening experiences of my life.",
+            "character": "Ryan Howard",
+            "actor": "",
+            "source": "Office",
+            "year": ""
+        },
+        {
+            "quote": "Yes, it is true. I, Michael Scott, am signing up with an online dating service. Thousands of people have done it, and I am going to do it. I need a username. And... I have a great one [types]. Little kid lover. That way, people will know exactly where my priorities are at.",
+            "character": "Michael Scott",
+            "actor": "",
+            "source": "Office",
+            "year": ""
+        },
+        {
+            "quote": "It's not that children make me uncomfortable, it's just that, why be a dad when you can be a fun uncle? I've never heard of anyone rebelling against their fun uncle.",
+            "character": "Michael Scott",
+            "actor": "",
+            "source": "Office",
+            "year": ""
+        },
+        {
+            "quote": "The Japanese camp guards of World War II always chose one man to kill whenever a batch of new prisoners arrived. I always wondered how they chose the man who was to die. I think I would have been good at choosing the person.",
+            "character": "Dwight Schrute",
+            "actor": "",
+            "source": "Office",
+            "year": ""
+        },
+        {
+            "quote": "Close your eyes. Picture a convict. What's he wearing? Nothing special, baseball cap on backwards, baggy pants... he says something ordinary like... 'yo, thats shizzle.' Okay. Now slowly open your eyes again. Who are you picturing? A black man? Wrong. That was a white woman. Surprised? Well, shame on you.",
+            "character": "Michael Scott",
+            "actor": "",
+            "source": "Office",
+            "year": ""
+        },
+        {
+            "quote": "Pivot! Pivot! Pivot! Pivot! Pivot!",
+            "character": "Ross",
+            "actor": "",
+            "source": "Friends",
+            "year": ""
+        },
+        {
+            "quote": "Joey doesn't share food!",
+            "character": "Joey",
+            "actor": "",
+            "source": "Friends",
+            "year": ""
+        },
+        {
+            "quote": "Guys can fake it? Unbelievable! The one thing that’s ours!",
+            "character": "Monica",
+            "actor": "",
+            "source": "Friends",
+            "year": ""
+        },
+        {
+            "quote": "It's a moo point. It's like a cow's opinion; it doesn't matter. It's moo.",
+            "character": "Joey",
+            "actor": "",
+            "source": "Friends",
+            "year": ""
+        },
+        {
+            "quote": "Yeah, that's right. I stepped up! She's my friend and she needed help. And if I have to I'd pee on any one of you.",
+            "character": "Joey",
+            "actor": "",
+            "source": "Friends",
+            "year": ""
+        },
+        {
+            "quote": "But they don't know that we know they know we know!",
+            "character": "Phoebe",
+            "actor": "",
+            "source": "Friends",
+            "year": ""
+        },
+        {
+            "quote": "This is brand-new information!",
+            "character": "Phoebe",
+            "actor": "",
+            "source": "Friends",
+            "year": ""
+        },
+        {
+            "quote": "Phoebe. That's P, as in Phoebe, H as in hoebe, O as in oebe, E as in ebe, B as in bebe, and E as in 'Ello there mate.",
+            "character": "Phoebe",
+            "actor": "",
+            "source": "Friends",
+            "year": ""
+        },
+        {
+            "quote": "I'm not so good with the advice. Can I interest you in a sarcastic comment?",
+            "character": "Chandler",
+            "actor": "",
+            "source": "Friends",
+            "year": ""
+        },
+        {
+            "quote": "I got off the plane.",
+            "character": "Rachel",
+            "actor": "",
+            "source": "Friends",
+            "year": ""
+        },
+        {
+            "quote": "How you doin?",
+            "character": "Joey",
+            "actor": "",
+            "source": "Friends",
+            "year": ""
+        },
+        {
+            "quote": "We were on a break!",
+            "character": "Ross",
+            "actor": "",
+            "source": "Friends",
+            "year": ""
+        },
+        {
+            "quote": "I grew up in a house with Monica, okay. If you didn't eat fast, you didn't eat.",
+            "character": "Ross",
+            "actor": "",
+            "source": "Friends",
+            "year": ""
+        },
+        {
+            "quote": "Unagi.",
+            "character": "Ross",
+            "actor": "",
+            "source": "Friends",
+            "year": ""
+        },
+        {
+            "quote": "Smelly cat, smelly cat, what are they feeding you? Smelly cat, smelly cat, it's not your fault.",
+            "character": "Phoebe",
+            "actor": "",
+            "source": "Friends",
+            "year": ""
+        },
+        {
+            "quote": "Just so you know, it's not that common, it doesn't happen to every guy, and it is a big deal!",
+            "character": "Rachel",
+            "actor": "",
+            "source": "Friends",
+            "year": ""
+        },
+        {
+            "quote": "Here come the meat sweats.",
+            "character": "Joey",
+            "actor": "",
+            "source": "Friends",
+            "year": ""
+        },
+        {
+            "quote": "Look at me! I'm Chandler! Could I be wearing any more clothes?!",
+            "character": "Joey",
+            "actor": "",
+            "source": "Friends",
+            "year": ""
+        },
+        {
+            "quote": "When you are backed against the wall, break the goddamn thing down.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "I don’t play the odds, I play the man.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "You always have a choice.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "They think you care, they’ll walk all over you.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "Sorry, I can’t hear you over the sound of how awesome I am.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "Anyone can do my job, but no one can be me.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "I don’t have dreams, I have goals.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "I believe in work, I don’t fuck with luck.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "It’s going to happen, because I am going to make it happen.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "Ever loved someone so much, you would do anything for them? Yeah, well make that someone yourself and do whatever the hell you want.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "It’s not bragging if it’s true.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "Win a no win situation by rewriting the rules.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "Let them hate, just make sure they spell your name right.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "Winners don’t make excuses.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "They want a war ..? They've got a war",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "Do what you have to do, just don't get caught",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "That’s the difference between you and me. You wanna lose small, I wanna win big.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "Dont Raise your voice Improve your argument",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "Work until you no longer have to inroduce yourself",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "Never Destroy anyone in public when you can accomplish the same in private",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "Kill them with Success, Bury them with a smile.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "It's not a problem if you always win.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "I'm not about caring, I'm about winning.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "I'm against having emotions, not against using them.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "The only time success comes before work is in the dictionary.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "Sometimes good guys gotta do bad things to make the bad guys pay.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "The ends don't justify the means until it's your ass on the line.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "Ever loved someone so much, you would do anything for them? Yeah, well make that someone yourself and do whatever you want.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "Loyalty is a two way street, if I am asking it from you, then you are getting it from me.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "I’m not interested in great, I want to know who its Daddy is.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "I could be drinking a juice box and still kick your ass.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "I don't pave the way for people... People pave the way for me",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "You want advice... Call Dr. Phil.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "Unless you're looking to make me breakfast tomorrow, I think we're done.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "We can discuss the prom at recess",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "You don't send a puppy to clean up its own mess",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "Those would all be shades of I don't give a shi*t",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "You didn't listen to me when I said I don't care.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "It’s going to happen, because I am going to make it happen.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "I like to smile at people who don’t like me.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "You want to change your life? Change the way you think.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "Have goals so big you get uncomfortable telling small minded people.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "You gonna buy me a drink, before you screw me?",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "Caring only makes you weak.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "I may have issues but they only making me stronger.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "Because a charging bull always looks at the red cape, not at the man with the sword",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "You don’t marry someone just because they knock you up.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "Just because a pretty girls tell you a story, doesn’t mean it’s true",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "I shot you in the knees, so he would not shoot you in the face, You're Welcome.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "The better you dress, the worse you can behave.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "May God have mercy on my enemies because I won’t.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "Exhale the bullshit, inhale the goodshit",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "Don't go to trial.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "Gloating is fine, you just have to not suck at it",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "So I’d say that the ball is in your court but the truth is your balls are in my fist.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "What do you do if someone puts a gun to your head? You take the gun, you pull out a bigger one or you call their bluff or you do one of 146 other things",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "According to me is the only according to that matters.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "You're never going to win big, if you are going to only minimise your loses.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "My advice is - hold on tight and enjoy the ride.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "People will hear what they wanna hear.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "I don't take meetings , I set them and my respect isn't demanded ,it's earned…",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "Congratulations, you got to walk his dog, but that doesn't mean he'll let u marry his daughter",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "Never give up on something that you can't go a day without thinking about.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "Life is a game. Play to win.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "97% of people who gave up are employed by the 3% who never gave up.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "I win. That’s what I do.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "Life is like this__ . I like this ^-.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "I'm not the guy gives you a hug when you're scared. I'm the guy that wins when you  need it the most.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "Life has two rules. One, never quit. Two, always remember the first rule.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "If you write Midnight Train to Georgia, you don't just sing it once.",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "I'm Emotionally Attached to me",
+            "character": "Harvey Specter",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "What Would Harvey Do? WWHD",
+            "character": " Mike Ross",
+            "actor": "",
+            "source": "Suits",
+            "year": ""
+        },
+        {
+            "quote": "When I first met you, you were a screw up.",
+            "character": "Jessica Pearson",
+            "actor": "",
+            "source": "Suits",
             "year": ""
         }
     ]
